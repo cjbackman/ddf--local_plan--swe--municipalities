@@ -1,6 +1,6 @@
 # Dataset for Swedish Municipalities
 
-### Data included:
+## Data included:
 
 * Middle income 1999 - 2014
 * Median income 1999 - 2014
