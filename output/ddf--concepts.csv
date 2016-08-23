@@ -1,0 +1,8 @@
+concept,name,concept_type
+name,Name,string
+population,Population,measure
+year,Year,time
+municipality,Municipality,entity_domain
+life_expectancy,Life expectancy,measure
+middle_income,Middle income,measure
+median_income,Median income,measure
