@@ -1,9 +1,10 @@
 concept,concept_type,map_file,map_object,map_type,name
 name,string,,,,Name
-middle_income,measure,,,,Middle income
-median_income,measure,,,,Median income
+population,measure,,,,Population
 year,time,,,,Year
 municipality,entity_domain,swe_municipalities.json,municipalities,topojson,Municipality
+county,entity_domain,,,,County
+middle_income,measure,,,,Middle income
+median_income,measure,,,,Median income
 life_expectancy,measure,,,,Life expectancy
-population,measure,,,,Population
 map_id,string,,,,Map ID
