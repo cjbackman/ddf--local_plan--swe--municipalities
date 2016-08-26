@@ -1,10 +1,13 @@
-concept,concept_type,map_file,map_object,map_type,name
-name,string,,,,Name
-population,measure,,,,Population
-year,time,,,,Year
-municipality,entity_domain,swe_municipalities.json,municipalities,topojson,Municipality
-county,entity_domain,,,,County
-middle_income,measure,,,,Middle income
-median_income,measure,,,,Median income
-life_expectancy,measure,,,,Life expectancy
-map_id,string,,,,Map ID
+concept,name,concept_type,map_file,map_object,map_type
+name,Name,string,,,
+middle_income,Middle income,measure,,,
+median_income,Median income,measure,,,
+year,Year,time,,,
+municipality,Municipality,entity_domain,swe_municipalities.json,municipalities,topojson
+county,County,entity_domain,,,
+map_id,Map ID,string,,,
+map_type,Map format,string,,,
+map_file,Path to map file,string,,,
+map_object,Name of JSON object with geo shapes (map_type specific),string,,,
+life_expectancy,Life expectancy,measure,,,
+population,Population,measure,,,
