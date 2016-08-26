@@ -1,6 +1,4 @@
 municipality,name,year,median_income
-0114,Upplands Väsby,1999,184600.0
-0114,Upplands Väsby,2000,191000.0
 0114,Upplands Väsby,2001,199500.0
 0114,Upplands Väsby,2002,205500.0
 0114,Upplands Väsby,2003,210600.0
@@ -15,8 +13,6 @@ municipality,name,year,median_income
 0114,Upplands Väsby,2012,254000.0
 0114,Upplands Väsby,2013,258800.0
 0114,Upplands Väsby,2014,263900.0
-0115,Vallentuna,1999,183000.0
-0115,Vallentuna,2000,190800.0
 0115,Vallentuna,2001,199900.0
 0115,Vallentuna,2002,208500.0
 0115,Vallentuna,2003,213000.0
@@ -31,8 +27,6 @@ municipality,name,year,median_income
 0115,Vallentuna,2012,278100.0
 0115,Vallentuna,2013,285800.0
 0115,Vallentuna,2014,293700.0
-0117,Österåker,1999,184500.0
-0117,Österåker,2000,193300.0
 0117,Österåker,2001,202700.0
 0117,Österåker,2002,209500.0
 0117,Österåker,2003,213500.0
@@ -47,8 +41,6 @@ municipality,name,year,median_income
 0117,Österåker,2012,270000.0
 0117,Österåker,2013,279300.0
 0117,Österåker,2014,285200.0
-0120,Värmdö,1999,183700.0
-0120,Värmdö,2000,192100.0
 0120,Värmdö,2001,201900.0
 0120,Värmdö,2002,210300.0
 0120,Värmdö,2003,215100.0
@@ -63,8 +55,6 @@ municipality,name,year,median_income
 0120,Värmdö,2012,274300.0
 0120,Värmdö,2013,281600.0
 0120,Värmdö,2014,287600.0
-0123,Järfälla,1999,188300.0
-0123,Järfälla,2000,195400.0
 0123,Järfälla,2001,204000.0
 0123,Järfälla,2002,210800.0
 0123,Järfälla,2003,215100.0
@@ -79,8 +69,6 @@ municipality,name,year,median_income
 0123,Järfälla,2012,257600.0
 0123,Järfälla,2013,262500.0
 0123,Järfälla,2014,266700.0
-0125,Ekerö,1999,193700.0
-0125,Ekerö,2000,201700.0
 0125,Ekerö,2001,211300.0
 0125,Ekerö,2002,217700.0
 0125,Ekerö,2003,223700.0
@@ -95,8 +83,6 @@ municipality,name,year,median_income
 0125,Ekerö,2012,287000.0
 0125,Ekerö,2013,296400.0
 0125,Ekerö,2014,301600.0
-0126,Huddinge,1999,179200.0
-0126,Huddinge,2000,185900.0
 0126,Huddinge,2001,194800.0
 0126,Huddinge,2002,200500.0
 0126,Huddinge,2003,204700.0
@@ -111,8 +97,6 @@ municipality,name,year,median_income
 0126,Huddinge,2012,252500.0
 0126,Huddinge,2013,259300.0
 0126,Huddinge,2014,264000.0
-0127,Botkyrka,1999,157900.0
-0127,Botkyrka,2000,162800.0
 0127,Botkyrka,2001,171800.0
 0127,Botkyrka,2002,177300.0
 0127,Botkyrka,2003,180800.0
@@ -127,8 +111,6 @@ municipality,name,year,median_income
 0127,Botkyrka,2012,216000.0
 0127,Botkyrka,2013,221600.0
 0127,Botkyrka,2014,225500.0
-0128,Salem,1999,188400.0
-0128,Salem,2000,196800.0
 0128,Salem,2001,205700.0
 0128,Salem,2002,213500.0
 0128,Salem,2003,218700.0
@@ -143,8 +125,6 @@ municipality,name,year,median_income
 0128,Salem,2012,273000.0
 0128,Salem,2013,279300.0
 0128,Salem,2014,286400.0
-0136,Haninge,1999,175200.0
-0136,Haninge,2000,182400.0
 0136,Haninge,2001,191100.0
 0136,Haninge,2002,197800.0
 0136,Haninge,2003,201000.0
@@ -159,8 +139,6 @@ municipality,name,year,median_income
 0136,Haninge,2012,246600.0
 0136,Haninge,2013,252700.0
 0136,Haninge,2014,257200.0
-0138,Tyresö,1999,189000.0
-0138,Tyresö,2000,197600.0
 0138,Tyresö,2001,206400.0
 0138,Tyresö,2002,213600.0
 0138,Tyresö,2003,218100.0
@@ -175,8 +153,6 @@ municipality,name,year,median_income
 0138,Tyresö,2012,270600.0
 0138,Tyresö,2013,279400.0
 0138,Tyresö,2014,285500.0
-0139,Upplands-Bro,1999,180000.0
-0139,Upplands-Bro,2000,187600.0
 0139,Upplands-Bro,2001,195600.0
 0139,Upplands-Bro,2002,200900.0
 0139,Upplands-Bro,2003,205000.0
@@ -191,8 +167,6 @@ municipality,name,year,median_income
 0139,Upplands-Bro,2012,253500.0
 0139,Upplands-Bro,2013,258600.0
 0139,Upplands-Bro,2014,264400.0
-0140,Nykvarn,1999,190600.0
-0140,Nykvarn,2000,197900.0
 0140,Nykvarn,2001,208500.0
 0140,Nykvarn,2002,213600.0
 0140,Nykvarn,2003,220000.0
@@ -207,8 +181,6 @@ municipality,name,year,median_income
 0140,Nykvarn,2012,286100.0
 0140,Nykvarn,2013,293900.0
 0140,Nykvarn,2014,298700.0
-0160,Täby,1999,204800.0
-0160,Täby,2000,212800.0
 0160,Täby,2001,222300.0
 0160,Täby,2002,229600.0
 0160,Täby,2003,234300.0
@@ -223,8 +195,6 @@ municipality,name,year,median_income
 0160,Täby,2012,301200.0
 0160,Täby,2013,309000.0
 0160,Täby,2014,316800.0
-0162,Danderyd,1999,209600.0
-0162,Danderyd,2000,218400.0
 0162,Danderyd,2001,230000.0
 0162,Danderyd,2002,236200.0
 0162,Danderyd,2003,240300.0
@@ -239,8 +209,6 @@ municipality,name,year,median_income
 0162,Danderyd,2012,309000.0
 0162,Danderyd,2013,318700.0
 0162,Danderyd,2014,324700.0
-0163,Sollentuna,1999,194500.0
-0163,Sollentuna,2000,202900.0
 0163,Sollentuna,2001,213500.0
 0163,Sollentuna,2002,219200.0
 0163,Sollentuna,2003,224500.0
@@ -255,8 +223,6 @@ municipality,name,year,median_income
 0163,Sollentuna,2012,281700.0
 0163,Sollentuna,2013,290300.0
 0163,Sollentuna,2014,294500.0
-0180,Stockholm,1999,175200.0
-0180,Stockholm,2000,183000.0
 0180,Stockholm,2001,192100.0
 0180,Stockholm,2002,197900.0
 0180,Stockholm,2003,202300.0
@@ -271,8 +237,6 @@ municipality,name,year,median_income
 0180,Stockholm,2012,267000.0
 0180,Stockholm,2013,274700.0
 0180,Stockholm,2014,281100.0
-0181,Södertälje,1999,163700.0
-0181,Södertälje,2000,169200.0
 0181,Södertälje,2001,178800.0
 0181,Södertälje,2002,183500.0
 0181,Södertälje,2003,188200.0
@@ -287,8 +251,6 @@ municipality,name,year,median_income
 0181,Södertälje,2012,219400.0
 0181,Södertälje,2013,224500.0
 0181,Södertälje,2014,226800.0
-0182,Nacka,1999,188900.0
-0182,Nacka,2000,197000.0
 0182,Nacka,2001,207300.0
 0182,Nacka,2002,215500.0
 0182,Nacka,2003,220000.0
@@ -303,8 +265,6 @@ municipality,name,year,median_income
 0182,Nacka,2012,288000.0
 0182,Nacka,2013,294600.0
 0182,Nacka,2014,303100.0
-0183,Sundbyberg,1999,180600.0
-0183,Sundbyberg,2000,188500.0
 0183,Sundbyberg,2001,198700.0
 0183,Sundbyberg,2002,203100.0
 0183,Sundbyberg,2003,206100.0
@@ -319,8 +279,6 @@ municipality,name,year,median_income
 0183,Sundbyberg,2012,261900.0
 0183,Sundbyberg,2013,269300.0
 0183,Sundbyberg,2014,277800.0
-0184,Solna,1999,177600.0
-0184,Solna,2000,186000.0
 0184,Solna,2001,195600.0
 0184,Solna,2002,204000.0
 0184,Solna,2003,208100.0
@@ -335,8 +293,6 @@ municipality,name,year,median_income
 0184,Solna,2012,277500.0
 0184,Solna,2013,287800.0
 0184,Solna,2014,296000.0
-0186,Lidingö,1999,198300.0
-0186,Lidingö,2000,205100.0
 0186,Lidingö,2001,214600.0
 0186,Lidingö,2002,221300.0
 0186,Lidingö,2003,226000.0
@@ -351,8 +307,6 @@ municipality,name,year,median_income
 0186,Lidingö,2012,287300.0
 0186,Lidingö,2013,295700.0
 0186,Lidingö,2014,300700.0
-0187,Vaxholm,1999,183700.0
-0187,Vaxholm,2000,193500.0
 0187,Vaxholm,2001,205200.0
 0187,Vaxholm,2002,212700.0
 0187,Vaxholm,2003,216600.0
@@ -367,8 +321,6 @@ municipality,name,year,median_income
 0187,Vaxholm,2012,288900.0
 0187,Vaxholm,2013,296100.0
 0187,Vaxholm,2014,299400.0
-0188,Norrtälje,1999,157200.0
-0188,Norrtälje,2000,163400.0
 0188,Norrtälje,2001,170100.0
 0188,Norrtälje,2002,178000.0
 0188,Norrtälje,2003,183000.0
@@ -383,8 +335,6 @@ municipality,name,year,median_income
 0188,Norrtälje,2012,226100.0
 0188,Norrtälje,2013,232100.0
 0188,Norrtälje,2014,236300.0
-0191,Sigtuna,1999,179500.0
-0191,Sigtuna,2000,186500.0
 0191,Sigtuna,2001,193900.0
 0191,Sigtuna,2002,198600.0
 0191,Sigtuna,2003,202400.0
@@ -399,8 +349,6 @@ municipality,name,year,median_income
 0191,Sigtuna,2012,242700.0
 0191,Sigtuna,2013,247700.0
 0191,Sigtuna,2014,253100.0
-0192,Nynäshamn,1999,173600.0
-0192,Nynäshamn,2000,178700.0
 0192,Nynäshamn,2001,185500.0
 0192,Nynäshamn,2002,192400.0
 0192,Nynäshamn,2003,195800.0
@@ -415,8 +363,6 @@ municipality,name,year,median_income
 0192,Nynäshamn,2012,238500.0
 0192,Nynäshamn,2013,244200.0
 0192,Nynäshamn,2014,247900.0
-0305,Håbo,1999,184600.0
-0305,Håbo,2000,193100.0
 0305,Håbo,2001,203000.0
 0305,Håbo,2002,210800.0
 0305,Håbo,2003,215900.0
@@ -431,8 +377,6 @@ municipality,name,year,median_income
 0305,Håbo,2012,268500.0
 0305,Håbo,2013,275100.0
 0305,Håbo,2014,278200.0
-0319,Älvkarleby,1999,159800.0
-0319,Älvkarleby,2000,164700.0
 0319,Älvkarleby,2001,171700.0
 0319,Älvkarleby,2002,177400.0
 0319,Älvkarleby,2003,181700.0
@@ -447,8 +391,6 @@ municipality,name,year,median_income
 0319,Älvkarleby,2012,222100.0
 0319,Älvkarleby,2013,228300.0
 0319,Älvkarleby,2014,231700.0
-0330,Knivsta,1999,0.0
-0330,Knivsta,2000,0.0
 0330,Knivsta,2001,0.0
 0330,Knivsta,2002,206100.0
 0330,Knivsta,2003,212500.0
@@ -463,8 +405,6 @@ municipality,name,year,median_income
 0330,Knivsta,2012,285400.0
 0330,Knivsta,2013,293000.0
 0330,Knivsta,2014,300500.0
-0331,Heby,1999,142100.0
-0331,Heby,2000,146600.0
 0331,Heby,2001,152400.0
 0331,Heby,2002,160600.0
 0331,Heby,2003,165800.0
@@ -479,8 +419,6 @@ municipality,name,year,median_income
 0331,Heby,2012,207900.0
 0331,Heby,2013,214000.0
 0331,Heby,2014,217600.0
-0360,Tierp,1999,147100.0
-0360,Tierp,2000,151600.0
 0360,Tierp,2001,158500.0
 0360,Tierp,2002,164500.0
 0360,Tierp,2003,170200.0
@@ -495,8 +433,6 @@ municipality,name,year,median_income
 0360,Tierp,2012,211900.0
 0360,Tierp,2013,216800.0
 0360,Tierp,2014,219300.0
-0380,Uppsala,1999,159200.0
-0380,Uppsala,2000,166200.0
 0380,Uppsala,2001,175000.0
 0380,Uppsala,2002,181500.0
 0380,Uppsala,2003,186700.0
@@ -511,8 +447,6 @@ municipality,name,year,median_income
 0380,Uppsala,2012,236800.0
 0380,Uppsala,2013,244300.0
 0380,Uppsala,2014,250000.0
-0381,Enköping,1999,158200.0
-0381,Enköping,2000,164700.0
 0381,Enköping,2001,171700.0
 0381,Enköping,2002,179100.0
 0381,Enköping,2003,185200.0
@@ -527,8 +461,6 @@ municipality,name,year,median_income
 0381,Enköping,2012,237900.0
 0381,Enköping,2013,244500.0
 0381,Enköping,2014,248100.0
-0382,Östhammar,1999,155300.0
-0382,Östhammar,2000,161000.0
 0382,Östhammar,2001,168400.0
 0382,Östhammar,2002,175900.0
 0382,Östhammar,2003,181100.0
@@ -543,8 +475,6 @@ municipality,name,year,median_income
 0382,Östhammar,2012,230800.0
 0382,Östhammar,2013,238500.0
 0382,Östhammar,2014,241500.0
-0428,Vingåker,1999,150800.0
-0428,Vingåker,2000,156500.0
 0428,Vingåker,2001,163600.0
 0428,Vingåker,2002,171000.0
 0428,Vingåker,2003,176200.0
@@ -559,8 +489,6 @@ municipality,name,year,median_income
 0428,Vingåker,2012,213400.0
 0428,Vingåker,2013,219900.0
 0428,Vingåker,2014,220000.0
-0461,Gnesta,1999,159100.0
-0461,Gnesta,2000,166000.0
 0461,Gnesta,2001,173700.0
 0461,Gnesta,2002,180900.0
 0461,Gnesta,2003,186700.0
@@ -575,8 +503,6 @@ municipality,name,year,median_income
 0461,Gnesta,2012,232800.0
 0461,Gnesta,2013,237800.0
 0461,Gnesta,2014,243800.0
-0480,Nyköping,1999,159000.0
-0480,Nyköping,2000,164700.0
 0480,Nyköping,2001,171800.0
 0480,Nyköping,2002,179500.0
 0480,Nyköping,2003,186300.0
@@ -591,8 +517,6 @@ municipality,name,year,median_income
 0480,Nyköping,2012,235600.0
 0480,Nyköping,2013,243200.0
 0480,Nyköping,2014,247100.0
-0481,Oxelösund,1999,171300.0
-0481,Oxelösund,2000,175800.0
 0481,Oxelösund,2001,181600.0
 0481,Oxelösund,2002,188800.0
 0481,Oxelösund,2003,194100.0
@@ -607,8 +531,6 @@ municipality,name,year,median_income
 0481,Oxelösund,2012,233200.0
 0481,Oxelösund,2013,240000.0
 0481,Oxelösund,2014,239700.0
-0482,Flen,1999,149800.0
-0482,Flen,2000,155400.0
 0482,Flen,2001,161800.0
 0482,Flen,2002,168300.0
 0482,Flen,2003,175300.0
@@ -623,8 +545,6 @@ municipality,name,year,median_income
 0482,Flen,2012,206200.0
 0482,Flen,2013,210800.0
 0482,Flen,2014,211300.0
-0483,Katrineholm,1999,152500.0
-0483,Katrineholm,2000,158500.0
 0483,Katrineholm,2001,163600.0
 0483,Katrineholm,2002,169000.0
 0483,Katrineholm,2003,173600.0
@@ -639,8 +559,6 @@ municipality,name,year,median_income
 0483,Katrineholm,2012,214300.0
 0483,Katrineholm,2013,220200.0
 0483,Katrineholm,2014,223800.0
-0484,Eskilstuna,1999,151700.0
-0484,Eskilstuna,2000,155600.0
 0484,Eskilstuna,2001,162600.0
 0484,Eskilstuna,2002,170100.0
 0484,Eskilstuna,2003,177300.0
@@ -655,8 +573,6 @@ municipality,name,year,median_income
 0484,Eskilstuna,2012,216600.0
 0484,Eskilstuna,2013,222100.0
 0484,Eskilstuna,2014,223800.0
-0486,Strängnäs,1999,165100.0
-0486,Strängnäs,2000,171200.0
 0486,Strängnäs,2001,180500.0
 0486,Strängnäs,2002,188200.0
 0486,Strängnäs,2003,193600.0
@@ -671,8 +587,6 @@ municipality,name,year,median_income
 0486,Strängnäs,2012,248000.0
 0486,Strängnäs,2013,253200.0
 0486,Strängnäs,2014,256100.0
-0488,Trosa,1999,177400.0
-0488,Trosa,2000,184900.0
 0488,Trosa,2001,192000.0
 0488,Trosa,2002,200200.0
 0488,Trosa,2003,204300.0
@@ -687,8 +601,6 @@ municipality,name,year,median_income
 0488,Trosa,2012,262700.0
 0488,Trosa,2013,264900.0
 0488,Trosa,2014,268800.0
-0509,Ödeshög,1999,137200.0
-0509,Ödeshög,2000,143400.0
 0509,Ödeshög,2001,147100.0
 0509,Ödeshög,2002,155400.0
 0509,Ödeshög,2003,161500.0
@@ -703,8 +615,6 @@ municipality,name,year,median_income
 0509,Ödeshög,2012,201500.0
 0509,Ödeshög,2013,208300.0
 0509,Ödeshög,2014,210500.0
-0512,Ydre,1999,139200.0
-0512,Ydre,2000,144700.0
 0512,Ydre,2001,151600.0
 0512,Ydre,2002,158900.0
 0512,Ydre,2003,167600.0
@@ -719,8 +629,6 @@ municipality,name,year,median_income
 0512,Ydre,2012,214100.0
 0512,Ydre,2013,222300.0
 0512,Ydre,2014,222800.0
-0513,Kinda,1999,141900.0
-0513,Kinda,2000,147900.0
 0513,Kinda,2001,153200.0
 0513,Kinda,2002,161600.0
 0513,Kinda,2003,169000.0
@@ -735,8 +643,6 @@ municipality,name,year,median_income
 0513,Kinda,2012,216000.0
 0513,Kinda,2013,224300.0
 0513,Kinda,2014,226400.0
-0560,Boxholm,1999,147900.0
-0560,Boxholm,2000,154900.0
 0560,Boxholm,2001,158800.0
 0560,Boxholm,2002,168700.0
 0560,Boxholm,2003,175600.0
@@ -751,8 +657,6 @@ municipality,name,year,median_income
 0560,Boxholm,2012,222100.0
 0560,Boxholm,2013,226700.0
 0560,Boxholm,2014,231700.0
-0561,Åtvidaberg,1999,152900.0
-0561,Åtvidaberg,2000,159500.0
 0561,Åtvidaberg,2001,164000.0
 0561,Åtvidaberg,2002,172200.0
 0561,Åtvidaberg,2003,177100.0
@@ -767,8 +671,6 @@ municipality,name,year,median_income
 0561,Åtvidaberg,2012,216700.0
 0561,Åtvidaberg,2013,221700.0
 0561,Åtvidaberg,2014,227500.0
-0562,Finspång,1999,155200.0
-0562,Finspång,2000,160200.0
 0562,Finspång,2001,165200.0
 0562,Finspång,2002,172000.0
 0562,Finspång,2003,179000.0
@@ -783,8 +685,6 @@ municipality,name,year,median_income
 0562,Finspång,2012,225100.0
 0562,Finspång,2013,230800.0
 0562,Finspång,2014,229700.0
-0563,Valdemarsvik,1999,139700.0
-0563,Valdemarsvik,2000,145800.0
 0563,Valdemarsvik,2001,151900.0
 0563,Valdemarsvik,2002,158800.0
 0563,Valdemarsvik,2003,166300.0
@@ -799,8 +699,6 @@ municipality,name,year,median_income
 0563,Valdemarsvik,2012,202200.0
 0563,Valdemarsvik,2013,209700.0
 0563,Valdemarsvik,2014,213200.0
-0580,Linköping,1999,157600.0
-0580,Linköping,2000,164900.0
 0580,Linköping,2001,170500.0
 0580,Linköping,2002,178100.0
 0580,Linköping,2003,182100.0
@@ -815,8 +713,6 @@ municipality,name,year,median_income
 0580,Linköping,2012,226600.0
 0580,Linköping,2013,234100.0
 0580,Linköping,2014,240000.0
-0581,Norrköping,1999,151400.0
-0581,Norrköping,2000,156800.0
 0581,Norrköping,2001,162900.0
 0581,Norrköping,2002,169800.0
 0581,Norrköping,2003,176000.0
@@ -831,8 +727,6 @@ municipality,name,year,median_income
 0581,Norrköping,2012,220900.0
 0581,Norrköping,2013,227800.0
 0581,Norrköping,2014,231500.0
-0582,Söderköping,1999,153300.0
-0582,Söderköping,2000,159600.0
 0582,Söderköping,2001,166700.0
 0582,Söderköping,2002,174600.0
 0582,Söderköping,2003,180800.0
@@ -847,8 +741,6 @@ municipality,name,year,median_income
 0582,Söderköping,2012,229800.0
 0582,Söderköping,2013,238200.0
 0582,Söderköping,2014,242800.0
-0583,Motala,1999,155300.0
-0583,Motala,2000,162800.0
 0583,Motala,2001,166800.0
 0583,Motala,2002,174600.0
 0583,Motala,2003,180100.0
@@ -863,8 +755,6 @@ municipality,name,year,median_income
 0583,Motala,2012,214400.0
 0583,Motala,2013,222800.0
 0583,Motala,2014,226800.0
-0584,Vadstena,1999,154600.0
-0584,Vadstena,2000,161800.0
 0584,Vadstena,2001,168100.0
 0584,Vadstena,2002,175800.0
 0584,Vadstena,2003,182100.0
@@ -879,8 +769,6 @@ municipality,name,year,median_income
 0584,Vadstena,2012,221800.0
 0584,Vadstena,2013,226600.0
 0584,Vadstena,2014,229700.0
-0586,Mjölby,1999,152400.0
-0586,Mjölby,2000,158800.0
 0586,Mjölby,2001,164100.0
 0586,Mjölby,2002,171800.0
 0586,Mjölby,2003,177400.0
@@ -895,8 +783,6 @@ municipality,name,year,median_income
 0586,Mjölby,2012,225700.0
 0586,Mjölby,2013,232600.0
 0586,Mjölby,2014,237600.0
-0604,Aneby,1999,141000.0
-0604,Aneby,2000,148800.0
 0604,Aneby,2001,155900.0
 0604,Aneby,2002,164100.0
 0604,Aneby,2003,170800.0
@@ -911,8 +797,6 @@ municipality,name,year,median_income
 0604,Aneby,2012,223600.0
 0604,Aneby,2013,229900.0
 0604,Aneby,2014,237500.0
-0617,Gnosjö,1999,173600.0
-0617,Gnosjö,2000,180000.0
 0617,Gnosjö,2001,185000.0
 0617,Gnosjö,2002,191500.0
 0617,Gnosjö,2003,196700.0
@@ -927,8 +811,6 @@ municipality,name,year,median_income
 0617,Gnosjö,2012,244100.0
 0617,Gnosjö,2013,250600.0
 0617,Gnosjö,2014,253000.0
-0642,Mullsjö,1999,156100.0
-0642,Mullsjö,2000,163100.0
 0642,Mullsjö,2001,169600.0
 0642,Mullsjö,2002,176800.0
 0642,Mullsjö,2003,183300.0
@@ -943,8 +825,6 @@ municipality,name,year,median_income
 0642,Mullsjö,2012,231400.0
 0642,Mullsjö,2013,236700.0
 0642,Mullsjö,2014,238500.0
-0643,Habo,1999,164700.0
-0643,Habo,2000,172300.0
 0643,Habo,2001,179600.0
 0643,Habo,2002,188900.0
 0643,Habo,2003,194300.0
@@ -959,8 +839,6 @@ municipality,name,year,median_income
 0643,Habo,2012,257100.0
 0643,Habo,2013,262800.0
 0643,Habo,2014,269100.0
-0662,Gislaved,1999,165100.0
-0662,Gislaved,2000,172600.0
 0662,Gislaved,2001,179900.0
 0662,Gislaved,2002,186100.0
 0662,Gislaved,2003,188100.0
@@ -975,8 +853,6 @@ municipality,name,year,median_income
 0662,Gislaved,2012,237500.0
 0662,Gislaved,2013,243400.0
 0662,Gislaved,2014,247800.0
-0665,Vaggeryd,1999,162800.0
-0665,Vaggeryd,2000,170400.0
 0665,Vaggeryd,2001,177800.0
 0665,Vaggeryd,2002,179900.0
 0665,Vaggeryd,2003,183700.0
@@ -991,8 +867,6 @@ municipality,name,year,median_income
 0665,Vaggeryd,2012,239100.0
 0665,Vaggeryd,2013,246300.0
 0665,Vaggeryd,2014,255300.0
-0680,Jönköping,1999,155700.0
-0680,Jönköping,2000,162500.0
 0680,Jönköping,2001,169800.0
 0680,Jönköping,2002,178200.0
 0680,Jönköping,2003,184300.0
@@ -1007,8 +881,6 @@ municipality,name,year,median_income
 0680,Jönköping,2012,238300.0
 0680,Jönköping,2013,244100.0
 0680,Jönköping,2014,250800.0
-0682,Nässjö,1999,151200.0
-0682,Nässjö,2000,157400.0
 0682,Nässjö,2001,163200.0
 0682,Nässjö,2002,170200.0
 0682,Nässjö,2003,177000.0
@@ -1023,8 +895,6 @@ municipality,name,year,median_income
 0682,Nässjö,2012,223400.0
 0682,Nässjö,2013,230100.0
 0682,Nässjö,2014,233900.0
-0683,Värnamo,1999,164900.0
-0683,Värnamo,2000,172400.0
 0683,Värnamo,2001,179300.0
 0683,Värnamo,2002,185100.0
 0683,Värnamo,2003,190500.0
@@ -1039,8 +909,6 @@ municipality,name,year,median_income
 0683,Värnamo,2012,244500.0
 0683,Värnamo,2013,250400.0
 0683,Värnamo,2014,256700.0
-0684,Sävsjö,1999,140100.0
-0684,Sävsjö,2000,147200.0
 0684,Sävsjö,2001,154700.0
 0684,Sävsjö,2002,160900.0
 0684,Sävsjö,2003,167400.0
@@ -1055,8 +923,6 @@ municipality,name,year,median_income
 0684,Sävsjö,2012,217200.0
 0684,Sävsjö,2013,222600.0
 0684,Sävsjö,2014,226800.0
-0685,Vetlanda,1999,149900.0
-0685,Vetlanda,2000,156800.0
 0685,Vetlanda,2001,164200.0
 0685,Vetlanda,2002,171400.0
 0685,Vetlanda,2003,178400.0
@@ -1071,8 +937,6 @@ municipality,name,year,median_income
 0685,Vetlanda,2012,227200.0
 0685,Vetlanda,2013,233700.0
 0685,Vetlanda,2014,240500.0
-0686,Eksjö,1999,148400.0
-0686,Eksjö,2000,154700.0
 0686,Eksjö,2001,161800.0
 0686,Eksjö,2002,170200.0
 0686,Eksjö,2003,177400.0
@@ -1087,8 +951,6 @@ municipality,name,year,median_income
 0686,Eksjö,2012,229000.0
 0686,Eksjö,2013,236900.0
 0686,Eksjö,2014,241000.0
-0687,Tranås,1999,146300.0
-0687,Tranås,2000,152100.0
 0687,Tranås,2001,158800.0
 0687,Tranås,2002,165800.0
 0687,Tranås,2003,172100.0
@@ -1103,8 +965,6 @@ municipality,name,year,median_income
 0687,Tranås,2012,213700.0
 0687,Tranås,2013,220500.0
 0687,Tranås,2014,223200.0
-0760,Uppvidinge,1999,150000.0
-0760,Uppvidinge,2000,154200.0
 0760,Uppvidinge,2001,160400.0
 0760,Uppvidinge,2002,166900.0
 0760,Uppvidinge,2003,172600.0
@@ -1119,8 +979,6 @@ municipality,name,year,median_income
 0760,Uppvidinge,2012,218800.0
 0760,Uppvidinge,2013,223700.0
 0760,Uppvidinge,2014,228600.0
-0761,Lessebo,1999,153400.0
-0761,Lessebo,2000,159300.0
 0761,Lessebo,2001,164200.0
 0761,Lessebo,2002,171800.0
 0761,Lessebo,2003,179100.0
@@ -1135,8 +993,6 @@ municipality,name,year,median_income
 0761,Lessebo,2012,213100.0
 0761,Lessebo,2013,218700.0
 0761,Lessebo,2014,218600.0
-0763,Tingsryd,1999,140600.0
-0763,Tingsryd,2000,143800.0
 0763,Tingsryd,2001,150700.0
 0763,Tingsryd,2002,156800.0
 0763,Tingsryd,2003,163200.0
@@ -1151,8 +1007,6 @@ municipality,name,year,median_income
 0763,Tingsryd,2012,206700.0
 0763,Tingsryd,2013,212200.0
 0763,Tingsryd,2014,214600.0
-0764,Alvesta,1999,151200.0
-0764,Alvesta,2000,156500.0
 0764,Alvesta,2001,163200.0
 0764,Alvesta,2002,169600.0
 0764,Alvesta,2003,175400.0
@@ -1167,8 +1021,6 @@ municipality,name,year,median_income
 0764,Alvesta,2012,225900.0
 0764,Alvesta,2013,230900.0
 0764,Alvesta,2014,234000.0
-0765,Älmhult,1999,153700.0
-0765,Älmhult,2000,159300.0
 0765,Älmhult,2001,165400.0
 0765,Älmhult,2002,174200.0
 0765,Älmhult,2003,180900.0
@@ -1183,8 +1035,6 @@ municipality,name,year,median_income
 0765,Älmhult,2012,237000.0
 0765,Älmhult,2013,242900.0
 0765,Älmhult,2014,247100.0
-0767,Markaryd,1999,147300.0
-0767,Markaryd,2000,151700.0
 0767,Markaryd,2001,158200.0
 0767,Markaryd,2002,165300.0
 0767,Markaryd,2003,170600.0
@@ -1199,8 +1049,6 @@ municipality,name,year,median_income
 0767,Markaryd,2012,203600.0
 0767,Markaryd,2013,209900.0
 0767,Markaryd,2014,212500.0
-0780,Växjö,1999,158800.0
-0780,Växjö,2000,164300.0
 0780,Växjö,2001,172200.0
 0780,Växjö,2002,179100.0
 0780,Växjö,2003,184600.0
@@ -1215,8 +1063,6 @@ municipality,name,year,median_income
 0780,Växjö,2012,235700.0
 0780,Växjö,2013,241900.0
 0780,Växjö,2014,246700.0
-0781,Ljungby,1999,154600.0
-0781,Ljungby,2000,161800.0
 0781,Ljungby,2001,168800.0
 0781,Ljungby,2002,175300.0
 0781,Ljungby,2003,182600.0
@@ -1231,8 +1077,6 @@ municipality,name,year,median_income
 0781,Ljungby,2012,226100.0
 0781,Ljungby,2013,232000.0
 0781,Ljungby,2014,234500.0
-0821,Högsby,1999,140600.0
-0821,Högsby,2000,145300.0
 0821,Högsby,2001,147600.0
 0821,Högsby,2002,154700.0
 0821,Högsby,2003,158800.0
@@ -1247,8 +1091,6 @@ municipality,name,year,median_income
 0821,Högsby,2012,190700.0
 0821,Högsby,2013,198300.0
 0821,Högsby,2014,201500.0
-0834,Torsås,1999,137300.0
-0834,Torsås,2000,141200.0
 0834,Torsås,2001,148900.0
 0834,Torsås,2002,154600.0
 0834,Torsås,2003,162600.0
@@ -1263,8 +1105,6 @@ municipality,name,year,median_income
 0834,Torsås,2012,203600.0
 0834,Torsås,2013,207700.0
 0834,Torsås,2014,213100.0
-0840,Mörbylånga,1999,149800.0
-0840,Mörbylånga,2000,155200.0
 0840,Mörbylånga,2001,163100.0
 0840,Mörbylånga,2002,171200.0
 0840,Mörbylånga,2003,177000.0
@@ -1279,8 +1119,6 @@ municipality,name,year,median_income
 0840,Mörbylånga,2012,231900.0
 0840,Mörbylånga,2013,239200.0
 0840,Mörbylånga,2014,243000.0
-0860,Hultsfred,1999,144900.0
-0860,Hultsfred,2000,149000.0
 0860,Hultsfred,2001,154500.0
 0860,Hultsfred,2002,161200.0
 0860,Hultsfred,2003,167100.0
@@ -1295,8 +1133,6 @@ municipality,name,year,median_income
 0860,Hultsfred,2012,202800.0
 0860,Hultsfred,2013,210400.0
 0860,Hultsfred,2014,213500.0
-0861,Mönsterås,1999,154600.0
-0861,Mönsterås,2000,160700.0
 0861,Mönsterås,2001,167600.0
 0861,Mönsterås,2002,175200.0
 0861,Mönsterås,2003,181400.0
@@ -1311,8 +1147,6 @@ municipality,name,year,median_income
 0861,Mönsterås,2012,225200.0
 0861,Mönsterås,2013,230700.0
 0861,Mönsterås,2014,233100.0
-0862,Emmaboda,1999,152700.0
-0862,Emmaboda,2000,158000.0
 0862,Emmaboda,2001,164400.0
 0862,Emmaboda,2002,171300.0
 0862,Emmaboda,2003,177100.0
@@ -1327,8 +1161,6 @@ municipality,name,year,median_income
 0862,Emmaboda,2012,213200.0
 0862,Emmaboda,2013,219600.0
 0862,Emmaboda,2014,224200.0
-0880,Kalmar,1999,154100.0
-0880,Kalmar,2000,159400.0
 0880,Kalmar,2001,166700.0
 0880,Kalmar,2002,173500.0
 0880,Kalmar,2003,178900.0
@@ -1343,8 +1175,6 @@ municipality,name,year,median_income
 0880,Kalmar,2012,227100.0
 0880,Kalmar,2013,236500.0
 0880,Kalmar,2014,240800.0
-0881,Nybro,1999,151500.0
-0881,Nybro,2000,155200.0
 0881,Nybro,2001,161400.0
 0881,Nybro,2002,166600.0
 0881,Nybro,2003,172600.0
@@ -1359,8 +1189,6 @@ municipality,name,year,median_income
 0881,Nybro,2012,208000.0
 0881,Nybro,2013,214600.0
 0881,Nybro,2014,219600.0
-0882,Oskarshamn,1999,161800.0
-0882,Oskarshamn,2000,167000.0
 0882,Oskarshamn,2001,173900.0
 0882,Oskarshamn,2002,182000.0
 0882,Oskarshamn,2003,188600.0
@@ -1375,8 +1203,6 @@ municipality,name,year,median_income
 0882,Oskarshamn,2012,240700.0
 0882,Oskarshamn,2013,249400.0
 0882,Oskarshamn,2014,255700.0
-0883,Västervik,1999,151100.0
-0883,Västervik,2000,154700.0
 0883,Västervik,2001,160400.0
 0883,Västervik,2002,167200.0
 0883,Västervik,2003,174800.0
@@ -1391,8 +1217,6 @@ municipality,name,year,median_income
 0883,Västervik,2012,214600.0
 0883,Västervik,2013,220400.0
 0883,Västervik,2014,223900.0
-0884,Vimmerby,1999,150000.0
-0884,Vimmerby,2000,155700.0
 0884,Vimmerby,2001,162800.0
 0884,Vimmerby,2002,169500.0
 0884,Vimmerby,2003,175300.0
@@ -1407,8 +1231,6 @@ municipality,name,year,median_income
 0884,Vimmerby,2012,220100.0
 0884,Vimmerby,2013,226100.0
 0884,Vimmerby,2014,232900.0
-0885,Borgholm,1999,128800.0
-0885,Borgholm,2000,133300.0
 0885,Borgholm,2001,138900.0
 0885,Borgholm,2002,146200.0
 0885,Borgholm,2003,154200.0
@@ -1423,8 +1245,6 @@ municipality,name,year,median_income
 0885,Borgholm,2012,199800.0
 0885,Borgholm,2013,204300.0
 0885,Borgholm,2014,207000.0
-0980,Gotland,1999,144200.0
-0980,Gotland,2000,149600.0
 0980,Gotland,2001,155400.0
 0980,Gotland,2002,161800.0
 0980,Gotland,2003,167300.0
@@ -1439,8 +1259,6 @@ municipality,name,year,median_income
 0980,Gotland,2012,208900.0
 0980,Gotland,2013,215400.0
 0980,Gotland,2014,218900.0
-1060,Olofström,1999,159900.0
-1060,Olofström,2000,164700.0
 1060,Olofström,2001,169700.0
 1060,Olofström,2002,176900.0
 1060,Olofström,2003,182300.0
@@ -1455,8 +1273,6 @@ municipality,name,year,median_income
 1060,Olofström,2012,214200.0
 1060,Olofström,2013,220000.0
 1060,Olofström,2014,222900.0
-1080,Karlskrona,1999,154700.0
-1080,Karlskrona,2000,161300.0
 1080,Karlskrona,2001,168500.0
 1080,Karlskrona,2002,175800.0
 1080,Karlskrona,2003,181900.0
@@ -1471,8 +1287,6 @@ municipality,name,year,median_income
 1080,Karlskrona,2012,227100.0
 1080,Karlskrona,2013,233700.0
 1080,Karlskrona,2014,238000.0
-1081,Ronneby,1999,148400.0
-1081,Ronneby,2000,153300.0
 1081,Ronneby,2001,159000.0
 1081,Ronneby,2002,166400.0
 1081,Ronneby,2003,175100.0
@@ -1487,8 +1301,6 @@ municipality,name,year,median_income
 1081,Ronneby,2012,215100.0
 1081,Ronneby,2013,221200.0
 1081,Ronneby,2014,223800.0
-1082,Karlshamn,1999,156300.0
-1082,Karlshamn,2000,161800.0
 1082,Karlshamn,2001,166800.0
 1082,Karlshamn,2002,173300.0
 1082,Karlshamn,2003,180300.0
@@ -1503,8 +1315,6 @@ municipality,name,year,median_income
 1082,Karlshamn,2012,219800.0
 1082,Karlshamn,2013,225200.0
 1082,Karlshamn,2014,228500.0
-1083,Sölvesborg,1999,151100.0
-1083,Sölvesborg,2000,156700.0
 1083,Sölvesborg,2001,161200.0
 1083,Sölvesborg,2002,170400.0
 1083,Sölvesborg,2003,177100.0
@@ -1519,8 +1329,6 @@ municipality,name,year,median_income
 1083,Sölvesborg,2012,216900.0
 1083,Sölvesborg,2013,224400.0
 1083,Sölvesborg,2014,226700.0
-1214,Svalöv,1999,149000.0
-1214,Svalöv,2000,155100.0
 1214,Svalöv,2001,160400.0
 1214,Svalöv,2002,168700.0
 1214,Svalöv,2003,173800.0
@@ -1535,8 +1343,6 @@ municipality,name,year,median_income
 1214,Svalöv,2012,215800.0
 1214,Svalöv,2013,221500.0
 1214,Svalöv,2014,228600.0
-1230,Staffanstorp,1999,179200.0
-1230,Staffanstorp,2000,184400.0
 1230,Staffanstorp,2001,193500.0
 1230,Staffanstorp,2002,201800.0
 1230,Staffanstorp,2003,206100.0
@@ -1551,8 +1357,6 @@ municipality,name,year,median_income
 1230,Staffanstorp,2012,259900.0
 1230,Staffanstorp,2013,267400.0
 1230,Staffanstorp,2014,274400.0
-1231,Burlöv,1999,158900.0
-1231,Burlöv,2000,161700.0
 1231,Burlöv,2001,168800.0
 1231,Burlöv,2002,175100.0
 1231,Burlöv,2003,179600.0
@@ -1567,8 +1371,6 @@ municipality,name,year,median_income
 1231,Burlöv,2012,215300.0
 1231,Burlöv,2013,220500.0
 1231,Burlöv,2014,222700.0
-1233,Vellinge,1999,183400.0
-1233,Vellinge,2000,189900.0
 1233,Vellinge,2001,198000.0
 1233,Vellinge,2002,206500.0
 1233,Vellinge,2003,212200.0
@@ -1583,8 +1385,6 @@ municipality,name,year,median_income
 1233,Vellinge,2012,266200.0
 1233,Vellinge,2013,274200.0
 1233,Vellinge,2014,278100.0
-1256,Östra Göinge,1999,153900.0
-1256,Östra Göinge,2000,158300.0
 1256,Östra Göinge,2001,164100.0
 1256,Östra Göinge,2002,170200.0
 1256,Östra Göinge,2003,176000.0
@@ -1599,8 +1399,6 @@ municipality,name,year,median_income
 1256,Östra Göinge,2012,212900.0
 1256,Östra Göinge,2013,216700.0
 1256,Östra Göinge,2014,218400.0
-1257,Örkelljunga,1999,143200.0
-1257,Örkelljunga,2000,147400.0
 1257,Örkelljunga,2001,151500.0
 1257,Örkelljunga,2002,159600.0
 1257,Örkelljunga,2003,165300.0
@@ -1615,8 +1413,6 @@ municipality,name,year,median_income
 1257,Örkelljunga,2012,200300.0
 1257,Örkelljunga,2013,207900.0
 1257,Örkelljunga,2014,208700.0
-1260,Bjuv,1999,155900.0
-1260,Bjuv,2000,161300.0
 1260,Bjuv,2001,166400.0
 1260,Bjuv,2002,173100.0
 1260,Bjuv,2003,179600.0
@@ -1631,8 +1427,6 @@ municipality,name,year,median_income
 1260,Bjuv,2012,212900.0
 1260,Bjuv,2013,218000.0
 1260,Bjuv,2014,220800.0
-1261,Kävlinge,1999,169300.0
-1261,Kävlinge,2000,176500.0
 1261,Kävlinge,2001,183600.0
 1261,Kävlinge,2002,192200.0
 1261,Kävlinge,2003,198200.0
@@ -1647,8 +1441,6 @@ municipality,name,year,median_income
 1261,Kävlinge,2012,258900.0
 1261,Kävlinge,2013,266900.0
 1261,Kävlinge,2014,271200.0
-1262,Lomma,1999,186200.0
-1262,Lomma,2000,192300.0
 1262,Lomma,2001,200000.0
 1262,Lomma,2002,207600.0
 1262,Lomma,2003,215800.0
@@ -1663,8 +1455,6 @@ municipality,name,year,median_income
 1262,Lomma,2012,287800.0
 1262,Lomma,2013,296000.0
 1262,Lomma,2014,303100.0
-1263,Svedala,1999,170800.0
-1263,Svedala,2000,176100.0
 1263,Svedala,2001,185100.0
 1263,Svedala,2002,192300.0
 1263,Svedala,2003,198600.0
@@ -1679,8 +1469,6 @@ municipality,name,year,median_income
 1263,Svedala,2012,257500.0
 1263,Svedala,2013,262500.0
 1263,Svedala,2014,267900.0
-1264,Skurup,1999,149700.0
-1264,Skurup,2000,155600.0
 1264,Skurup,2001,161000.0
 1264,Skurup,2002,168800.0
 1264,Skurup,2003,175000.0
@@ -1695,8 +1483,6 @@ municipality,name,year,median_income
 1264,Skurup,2012,223600.0
 1264,Skurup,2013,229400.0
 1264,Skurup,2014,233800.0
-1265,Sjöbo,1999,140700.0
-1265,Sjöbo,2000,145400.0
 1265,Sjöbo,2001,151700.0
 1265,Sjöbo,2002,159100.0
 1265,Sjöbo,2003,164900.0
@@ -1711,8 +1497,6 @@ municipality,name,year,median_income
 1265,Sjöbo,2012,214300.0
 1265,Sjöbo,2013,222900.0
 1265,Sjöbo,2014,226200.0
-1266,Hörby,1999,139900.0
-1266,Hörby,2000,145000.0
 1266,Hörby,2001,151000.0
 1266,Hörby,2002,157900.0
 1266,Hörby,2003,163800.0
@@ -1727,8 +1511,6 @@ municipality,name,year,median_income
 1266,Hörby,2012,214000.0
 1266,Hörby,2013,219200.0
 1266,Hörby,2014,224000.0
-1267,Höör,1999,148000.0
-1267,Höör,2000,153900.0
 1267,Höör,2001,160000.0
 1267,Höör,2002,167700.0
 1267,Höör,2003,174400.0
@@ -1743,8 +1525,6 @@ municipality,name,year,median_income
 1267,Höör,2012,228000.0
 1267,Höör,2013,235400.0
 1267,Höör,2014,241400.0
-1270,Tomelilla,1999,134900.0
-1270,Tomelilla,2000,141500.0
 1270,Tomelilla,2001,147300.0
 1270,Tomelilla,2002,155100.0
 1270,Tomelilla,2003,162100.0
@@ -1759,8 +1539,6 @@ municipality,name,year,median_income
 1270,Tomelilla,2012,204100.0
 1270,Tomelilla,2013,212100.0
 1270,Tomelilla,2014,213800.0
-1272,Bromölla,1999,157600.0
-1272,Bromölla,2000,163100.0
 1272,Bromölla,2001,169600.0
 1272,Bromölla,2002,176900.0
 1272,Bromölla,2003,182900.0
@@ -1775,8 +1553,6 @@ municipality,name,year,median_income
 1272,Bromölla,2012,217800.0
 1272,Bromölla,2013,222100.0
 1272,Bromölla,2014,226900.0
-1273,Osby,1999,148200.0
-1273,Osby,2000,153300.0
 1273,Osby,2001,158600.0
 1273,Osby,2002,166200.0
 1273,Osby,2003,171600.0
@@ -1791,8 +1567,6 @@ municipality,name,year,median_income
 1273,Osby,2012,211700.0
 1273,Osby,2013,214000.0
 1273,Osby,2014,217500.0
-1275,Perstorp,1999,155400.0
-1275,Perstorp,2000,160200.0
 1275,Perstorp,2001,162800.0
 1275,Perstorp,2002,166000.0
 1275,Perstorp,2003,170700.0
@@ -1807,8 +1581,6 @@ municipality,name,year,median_income
 1275,Perstorp,2012,195400.0
 1275,Perstorp,2013,200500.0
 1275,Perstorp,2014,202600.0
-1276,Klippan,1999,146400.0
-1276,Klippan,2000,150800.0
 1276,Klippan,2001,156500.0
 1276,Klippan,2002,161700.0
 1276,Klippan,2003,166400.0
@@ -1823,8 +1595,6 @@ municipality,name,year,median_income
 1276,Klippan,2012,205700.0
 1276,Klippan,2013,210500.0
 1276,Klippan,2014,212700.0
-1277,Åstorp,1999,152200.0
-1277,Åstorp,2000,156600.0
 1277,Åstorp,2001,162900.0
 1277,Åstorp,2002,170200.0
 1277,Åstorp,2003,176000.0
@@ -1839,8 +1609,6 @@ municipality,name,year,median_income
 1277,Åstorp,2012,210700.0
 1277,Åstorp,2013,217000.0
 1277,Åstorp,2014,218500.0
-1278,Båstad,1999,144100.0
-1278,Båstad,2000,149200.0
 1278,Båstad,2001,155500.0
 1278,Båstad,2002,164700.0
 1278,Båstad,2003,171500.0
@@ -1855,8 +1623,6 @@ municipality,name,year,median_income
 1278,Båstad,2012,221500.0
 1278,Båstad,2013,227700.0
 1278,Båstad,2014,230500.0
-1280,Malmö,1999,143700.0
-1280,Malmö,2000,147100.0
 1280,Malmö,2001,152000.0
 1280,Malmö,2002,158300.0
 1280,Malmö,2003,163000.0
@@ -1871,8 +1637,6 @@ municipality,name,year,median_income
 1280,Malmö,2012,197400.0
 1280,Malmö,2013,203900.0
 1280,Malmö,2014,206800.0
-1281,Lund,1999,153500.0
-1281,Lund,2000,159300.0
 1281,Lund,2001,166600.0
 1281,Lund,2002,172100.0
 1281,Lund,2003,177200.0
@@ -1887,8 +1651,6 @@ municipality,name,year,median_income
 1281,Lund,2012,225000.0
 1281,Lund,2013,231100.0
 1281,Lund,2014,232900.0
-1282,Landskrona,1999,148400.0
-1282,Landskrona,2000,152700.0
 1282,Landskrona,2001,156800.0
 1282,Landskrona,2002,162800.0
 1282,Landskrona,2003,168200.0
@@ -1903,8 +1665,6 @@ municipality,name,year,median_income
 1282,Landskrona,2012,205000.0
 1282,Landskrona,2013,210600.0
 1282,Landskrona,2014,212900.0
-1283,Helsingborg,1999,154200.0
-1283,Helsingborg,2000,158400.0
 1283,Helsingborg,2001,164900.0
 1283,Helsingborg,2002,173000.0
 1283,Helsingborg,2003,179500.0
@@ -1919,8 +1679,6 @@ municipality,name,year,median_income
 1283,Helsingborg,2012,222800.0
 1283,Helsingborg,2013,230000.0
 1283,Helsingborg,2014,232500.0
-1284,Höganäs,1999,159100.0
-1284,Höganäs,2000,165000.0
 1284,Höganäs,2001,172200.0
 1284,Höganäs,2002,179500.0
 1284,Höganäs,2003,186200.0
@@ -1935,8 +1693,6 @@ municipality,name,year,median_income
 1284,Höganäs,2012,236700.0
 1284,Höganäs,2013,243700.0
 1284,Höganäs,2014,248300.0
-1285,Eslöv,1999,152100.0
-1285,Eslöv,2000,156700.0
 1285,Eslöv,2001,163100.0
 1285,Eslöv,2002,171800.0
 1285,Eslöv,2003,177600.0
@@ -1951,8 +1707,6 @@ municipality,name,year,median_income
 1285,Eslöv,2012,223900.0
 1285,Eslöv,2013,231500.0
 1285,Eslöv,2014,234900.0
-1286,Ystad,1999,150900.0
-1286,Ystad,2000,155900.0
 1286,Ystad,2001,163300.0
 1286,Ystad,2002,170200.0
 1286,Ystad,2003,177600.0
@@ -1967,8 +1721,6 @@ municipality,name,year,median_income
 1286,Ystad,2012,226300.0
 1286,Ystad,2013,233100.0
 1286,Ystad,2014,237100.0
-1287,Trelleborg,1999,153300.0
-1287,Trelleborg,2000,158400.0
 1287,Trelleborg,2001,164300.0
 1287,Trelleborg,2002,171000.0
 1287,Trelleborg,2003,177200.0
@@ -1983,8 +1735,6 @@ municipality,name,year,median_income
 1287,Trelleborg,2012,221000.0
 1287,Trelleborg,2013,227100.0
 1287,Trelleborg,2014,231800.0
-1290,Kristianstad,1999,152900.0
-1290,Kristianstad,2000,158000.0
 1290,Kristianstad,2001,163100.0
 1290,Kristianstad,2002,170400.0
 1290,Kristianstad,2003,178100.0
@@ -1999,8 +1749,6 @@ municipality,name,year,median_income
 1290,Kristianstad,2012,217800.0
 1290,Kristianstad,2013,223600.0
 1290,Kristianstad,2014,227100.0
-1291,Simrishamn,1999,142200.0
-1291,Simrishamn,2000,147200.0
 1291,Simrishamn,2001,152900.0
 1291,Simrishamn,2002,159000.0
 1291,Simrishamn,2003,165200.0
@@ -2015,8 +1763,6 @@ municipality,name,year,median_income
 1291,Simrishamn,2012,201900.0
 1291,Simrishamn,2013,209500.0
 1291,Simrishamn,2014,212200.0
-1292,Ängelholm,1999,152800.0
-1292,Ängelholm,2000,158100.0
 1292,Ängelholm,2001,165600.0
 1292,Ängelholm,2002,174100.0
 1292,Ängelholm,2003,180100.0
@@ -2031,8 +1777,6 @@ municipality,name,year,median_income
 1292,Ängelholm,2012,231800.0
 1292,Ängelholm,2013,239000.0
 1292,Ängelholm,2014,244100.0
-1293,Hässleholm,1999,146400.0
-1293,Hässleholm,2000,150400.0
 1293,Hässleholm,2001,155700.0
 1293,Hässleholm,2002,163000.0
 1293,Hässleholm,2003,169800.0
@@ -2047,8 +1791,6 @@ municipality,name,year,median_income
 1293,Hässleholm,2012,207600.0
 1293,Hässleholm,2013,214500.0
 1293,Hässleholm,2014,217300.0
-1315,Hylte,1999,149300.0
-1315,Hylte,2000,154900.0
 1315,Hylte,2001,162100.0
 1315,Hylte,2002,168900.0
 1315,Hylte,2003,174800.0
@@ -2063,8 +1805,6 @@ municipality,name,year,median_income
 1315,Hylte,2012,224500.0
 1315,Hylte,2013,227000.0
 1315,Hylte,2014,232400.0
-1380,Halmstad,1999,151300.0
-1380,Halmstad,2000,156100.0
 1380,Halmstad,2001,162600.0
 1380,Halmstad,2002,170200.0
 1380,Halmstad,2003,177200.0
@@ -2079,8 +1819,6 @@ municipality,name,year,median_income
 1380,Halmstad,2012,230000.0
 1380,Halmstad,2013,236500.0
 1380,Halmstad,2014,240000.0
-1381,Laholm,1999,139700.0
-1381,Laholm,2000,145600.0
 1381,Laholm,2001,151700.0
 1381,Laholm,2002,159100.0
 1381,Laholm,2003,165900.0
@@ -2095,8 +1833,6 @@ municipality,name,year,median_income
 1381,Laholm,2012,218700.0
 1381,Laholm,2013,224900.0
 1381,Laholm,2014,228100.0
-1382,Falkenberg,1999,145500.0
-1382,Falkenberg,2000,150100.0
 1382,Falkenberg,2001,156300.0
 1382,Falkenberg,2002,164500.0
 1382,Falkenberg,2003,171400.0
@@ -2111,8 +1847,6 @@ municipality,name,year,median_income
 1382,Falkenberg,2012,225800.0
 1382,Falkenberg,2013,234200.0
 1382,Falkenberg,2014,236600.0
-1383,Varberg,1999,150100.0
-1383,Varberg,2000,155100.0
 1383,Varberg,2001,162400.0
 1383,Varberg,2002,169500.0
 1383,Varberg,2003,176300.0
@@ -2127,8 +1861,6 @@ municipality,name,year,median_income
 1383,Varberg,2012,237000.0
 1383,Varberg,2013,243800.0
 1383,Varberg,2014,250800.0
-1384,Kungsbacka,1999,176000.0
-1384,Kungsbacka,2000,183800.0
 1384,Kungsbacka,2001,191900.0
 1384,Kungsbacka,2002,200400.0
 1384,Kungsbacka,2003,207100.0
@@ -2143,8 +1875,6 @@ municipality,name,year,median_income
 1384,Kungsbacka,2012,269700.0
 1384,Kungsbacka,2013,277300.0
 1384,Kungsbacka,2014,284700.0
-1401,Härryda,1999,180800.0
-1401,Härryda,2000,188200.0
 1401,Härryda,2001,195900.0
 1401,Härryda,2002,203100.0
 1401,Härryda,2003,209600.0
@@ -2159,8 +1889,6 @@ municipality,name,year,median_income
 1401,Härryda,2012,274800.0
 1401,Härryda,2013,284100.0
 1401,Härryda,2014,291900.0
-1402,Partille,1999,176000.0
-1402,Partille,2000,182100.0
 1402,Partille,2001,190100.0
 1402,Partille,2002,197600.0
 1402,Partille,2003,204400.0
@@ -2175,8 +1903,6 @@ municipality,name,year,median_income
 1402,Partille,2012,263600.0
 1402,Partille,2013,270900.0
 1402,Partille,2014,277300.0
-1407,Öckerö,1999,165900.0
-1407,Öckerö,2000,171300.0
 1407,Öckerö,2001,178500.0
 1407,Öckerö,2002,187900.0
 1407,Öckerö,2003,193900.0
@@ -2191,8 +1917,6 @@ municipality,name,year,median_income
 1407,Öckerö,2012,252000.0
 1407,Öckerö,2013,258200.0
 1407,Öckerö,2014,264600.0
-1415,Stenungsund,1999,171300.0
-1415,Stenungsund,2000,178400.0
 1415,Stenungsund,2001,186300.0
 1415,Stenungsund,2002,193200.0
 1415,Stenungsund,2003,199400.0
@@ -2207,8 +1931,6 @@ municipality,name,year,median_income
 1415,Stenungsund,2012,257700.0
 1415,Stenungsund,2013,264900.0
 1415,Stenungsund,2014,273600.0
-1419,Tjörn,1999,160900.0
-1419,Tjörn,2000,166600.0
 1419,Tjörn,2001,173800.0
 1419,Tjörn,2002,183100.0
 1419,Tjörn,2003,189000.0
@@ -2223,8 +1945,6 @@ municipality,name,year,median_income
 1419,Tjörn,2012,246000.0
 1419,Tjörn,2013,255700.0
 1419,Tjörn,2014,260700.0
-1421,Orust,1999,152300.0
-1421,Orust,2000,158200.0
 1421,Orust,2001,164400.0
 1421,Orust,2002,172700.0
 1421,Orust,2003,178900.0
@@ -2239,8 +1959,6 @@ municipality,name,year,median_income
 1421,Orust,2012,228900.0
 1421,Orust,2013,235000.0
 1421,Orust,2014,237200.0
-1427,Sotenäs,1999,151900.0
-1427,Sotenäs,2000,155700.0
 1427,Sotenäs,2001,162600.0
 1427,Sotenäs,2002,171800.0
 1427,Sotenäs,2003,177800.0
@@ -2255,8 +1973,6 @@ municipality,name,year,median_income
 1427,Sotenäs,2012,228800.0
 1427,Sotenäs,2013,236600.0
 1427,Sotenäs,2014,241300.0
-1430,Munkedal,1999,145400.0
-1430,Munkedal,2000,150500.0
 1430,Munkedal,2001,154100.0
 1430,Munkedal,2002,161500.0
 1430,Munkedal,2003,169500.0
@@ -2271,8 +1987,6 @@ municipality,name,year,median_income
 1430,Munkedal,2012,211200.0
 1430,Munkedal,2013,214800.0
 1430,Munkedal,2014,218300.0
-1435,Tanum,1999,140700.0
-1435,Tanum,2000,147800.0
 1435,Tanum,2001,152500.0
 1435,Tanum,2002,161200.0
 1435,Tanum,2003,167600.0
@@ -2287,8 +2001,6 @@ municipality,name,year,median_income
 1435,Tanum,2012,213000.0
 1435,Tanum,2013,220000.0
 1435,Tanum,2014,224100.0
-1438,Dals-Ed,1999,145000.0
-1438,Dals-Ed,2000,149700.0
 1438,Dals-Ed,2001,152600.0
 1438,Dals-Ed,2002,162000.0
 1438,Dals-Ed,2003,171600.0
@@ -2303,8 +2015,6 @@ municipality,name,year,median_income
 1438,Dals-Ed,2012,193400.0
 1438,Dals-Ed,2013,199100.0
 1438,Dals-Ed,2014,203200.0
-1439,Färgelanda,1999,152800.0
-1439,Färgelanda,2000,156300.0
 1439,Färgelanda,2001,159700.0
 1439,Färgelanda,2002,167500.0
 1439,Färgelanda,2003,173700.0
@@ -2319,8 +2029,6 @@ municipality,name,year,median_income
 1439,Färgelanda,2012,204600.0
 1439,Färgelanda,2013,211700.0
 1439,Färgelanda,2014,213400.0
-1440,Ale,1999,169300.0
-1440,Ale,2000,175000.0
 1440,Ale,2001,181800.0
 1440,Ale,2002,191000.0
 1440,Ale,2003,197600.0
@@ -2335,8 +2043,6 @@ municipality,name,year,median_income
 1440,Ale,2012,249600.0
 1440,Ale,2013,257100.0
 1440,Ale,2014,261700.0
-1441,Lerum,1999,176900.0
-1441,Lerum,2000,183600.0
 1441,Lerum,2001,192000.0
 1441,Lerum,2002,200300.0
 1441,Lerum,2003,206200.0
@@ -2351,8 +2057,6 @@ municipality,name,year,median_income
 1441,Lerum,2012,268100.0
 1441,Lerum,2013,277700.0
 1441,Lerum,2014,283300.0
-1442,Vårgårda,1999,154000.0
-1442,Vårgårda,2000,160800.0
 1442,Vårgårda,2001,169700.0
 1442,Vårgårda,2002,176600.0
 1442,Vårgårda,2003,183700.0
@@ -2367,8 +2071,6 @@ municipality,name,year,median_income
 1442,Vårgårda,2012,228000.0
 1442,Vårgårda,2013,232200.0
 1442,Vårgårda,2014,237400.0
-1443,Bollebygd,1999,169600.0
-1443,Bollebygd,2000,176000.0
 1443,Bollebygd,2001,183700.0
 1443,Bollebygd,2002,192700.0
 1443,Bollebygd,2003,198600.0
@@ -2383,8 +2085,6 @@ municipality,name,year,median_income
 1443,Bollebygd,2012,250500.0
 1443,Bollebygd,2013,258000.0
 1443,Bollebygd,2014,264700.0
-1444,Grästorp,1999,148600.0
-1444,Grästorp,2000,156700.0
 1444,Grästorp,2001,163000.0
 1444,Grästorp,2002,168300.0
 1444,Grästorp,2003,175200.0
@@ -2399,8 +2099,6 @@ municipality,name,year,median_income
 1444,Grästorp,2012,217200.0
 1444,Grästorp,2013,222300.0
 1444,Grästorp,2014,229900.0
-1445,Essunga,1999,144400.0
-1445,Essunga,2000,151500.0
 1445,Essunga,2001,156100.0
 1445,Essunga,2002,163900.0
 1445,Essunga,2003,171300.0
@@ -2415,8 +2113,6 @@ municipality,name,year,median_income
 1445,Essunga,2012,212500.0
 1445,Essunga,2013,221400.0
 1445,Essunga,2014,222900.0
-1446,Karlsborg,1999,148500.0
-1446,Karlsborg,2000,153900.0
 1446,Karlsborg,2001,160600.0
 1446,Karlsborg,2002,168700.0
 1446,Karlsborg,2003,176900.0
@@ -2431,8 +2127,6 @@ municipality,name,year,median_income
 1446,Karlsborg,2012,224700.0
 1446,Karlsborg,2013,231900.0
 1446,Karlsborg,2014,234900.0
-1447,Gullspång,1999,143400.0
-1447,Gullspång,2000,148400.0
 1447,Gullspång,2001,153000.0
 1447,Gullspång,2002,161700.0
 1447,Gullspång,2003,167800.0
@@ -2447,8 +2141,6 @@ municipality,name,year,median_income
 1447,Gullspång,2012,200300.0
 1447,Gullspång,2013,206600.0
 1447,Gullspång,2014,205700.0
-1452,Tranemo,1999,157000.0
-1452,Tranemo,2000,162000.0
 1452,Tranemo,2001,168500.0
 1452,Tranemo,2002,176800.0
 1452,Tranemo,2003,180400.0
@@ -2463,8 +2155,6 @@ municipality,name,year,median_income
 1452,Tranemo,2012,232200.0
 1452,Tranemo,2013,237100.0
 1452,Tranemo,2014,242900.0
-1460,Bengtsfors,1999,152700.0
-1460,Bengtsfors,2000,153300.0
 1460,Bengtsfors,2001,157400.0
 1460,Bengtsfors,2002,165100.0
 1460,Bengtsfors,2003,170800.0
@@ -2479,8 +2169,6 @@ municipality,name,year,median_income
 1460,Bengtsfors,2012,196200.0
 1460,Bengtsfors,2013,205300.0
 1460,Bengtsfors,2014,206100.0
-1461,Mellerud,1999,141500.0
-1461,Mellerud,2000,146000.0
 1461,Mellerud,2001,150100.0
 1461,Mellerud,2002,156700.0
 1461,Mellerud,2003,164200.0
@@ -2495,8 +2183,6 @@ municipality,name,year,median_income
 1461,Mellerud,2012,191800.0
 1461,Mellerud,2013,196700.0
 1461,Mellerud,2014,199800.0
-1462,Lilla Edet,1999,158500.0
-1462,Lilla Edet,2000,164500.0
 1462,Lilla Edet,2001,169800.0
 1462,Lilla Edet,2002,177400.0
 1462,Lilla Edet,2003,182200.0
@@ -2511,8 +2197,6 @@ municipality,name,year,median_income
 1462,Lilla Edet,2012,228600.0
 1462,Lilla Edet,2013,233100.0
 1462,Lilla Edet,2014,236700.0
-1463,Mark,1999,150700.0
-1463,Mark,2000,156000.0
 1463,Mark,2001,162200.0
 1463,Mark,2002,168700.0
 1463,Mark,2003,175400.0
@@ -2527,8 +2211,6 @@ municipality,name,year,median_income
 1463,Mark,2012,224100.0
 1463,Mark,2013,232800.0
 1463,Mark,2014,235100.0
-1465,Svenljunga,1999,147400.0
-1465,Svenljunga,2000,151300.0
 1465,Svenljunga,2001,158300.0
 1465,Svenljunga,2002,163800.0
 1465,Svenljunga,2003,170000.0
@@ -2543,8 +2225,6 @@ municipality,name,year,median_income
 1465,Svenljunga,2012,217300.0
 1465,Svenljunga,2013,222300.0
 1465,Svenljunga,2014,227100.0
-1466,Herrljunga,1999,149100.0
-1466,Herrljunga,2000,153400.0
 1466,Herrljunga,2001,158500.0
 1466,Herrljunga,2002,166000.0
 1466,Herrljunga,2003,173000.0
@@ -2559,8 +2239,6 @@ municipality,name,year,median_income
 1466,Herrljunga,2012,216300.0
 1466,Herrljunga,2013,222500.0
 1466,Herrljunga,2014,227600.0
-1470,Vara,1999,142900.0
-1470,Vara,2000,147500.0
 1470,Vara,2001,153700.0
 1470,Vara,2002,161800.0
 1470,Vara,2003,168400.0
@@ -2575,8 +2253,6 @@ municipality,name,year,median_income
 1470,Vara,2012,216100.0
 1470,Vara,2013,220400.0
 1470,Vara,2014,224300.0
-1471,Götene,1999,156500.0
-1471,Götene,2000,162600.0
 1471,Götene,2001,168800.0
 1471,Götene,2002,178300.0
 1471,Götene,2003,184200.0
@@ -2591,8 +2267,6 @@ municipality,name,year,median_income
 1471,Götene,2012,230300.0
 1471,Götene,2013,235100.0
 1471,Götene,2014,238600.0
-1472,Tibro,1999,152800.0
-1472,Tibro,2000,158800.0
 1472,Tibro,2001,163500.0
 1472,Tibro,2002,170200.0
 1472,Tibro,2003,175600.0
@@ -2607,8 +2281,6 @@ municipality,name,year,median_income
 1472,Tibro,2012,212400.0
 1472,Tibro,2013,219700.0
 1472,Tibro,2014,218600.0
-1473,Töreboda,1999,139800.0
-1473,Töreboda,2000,144100.0
 1473,Töreboda,2001,149600.0
 1473,Töreboda,2002,155600.0
 1473,Töreboda,2003,162600.0
@@ -2623,8 +2295,6 @@ municipality,name,year,median_income
 1473,Töreboda,2012,200700.0
 1473,Töreboda,2013,209400.0
 1473,Töreboda,2014,209200.0
-1480,Göteborg,1999,155900.0
-1480,Göteborg,2000,162100.0
 1480,Göteborg,2001,169900.0
 1480,Göteborg,2002,177800.0
 1480,Göteborg,2003,184300.0
@@ -2639,8 +2309,6 @@ municipality,name,year,median_income
 1480,Göteborg,2012,233000.0
 1480,Göteborg,2013,239900.0
 1480,Göteborg,2014,244400.0
-1481,Mölndal,1999,176100.0
-1481,Mölndal,2000,182700.0
 1481,Mölndal,2001,191000.0
 1481,Mölndal,2002,199500.0
 1481,Mölndal,2003,205200.0
@@ -2655,8 +2323,6 @@ municipality,name,year,median_income
 1481,Mölndal,2012,266900.0
 1481,Mölndal,2013,275300.0
 1481,Mölndal,2014,281500.0
-1482,Kungälv,1999,174200.0
-1482,Kungälv,2000,179500.0
 1482,Kungälv,2001,187000.0
 1482,Kungälv,2002,195000.0
 1482,Kungälv,2003,200800.0
@@ -2671,8 +2337,6 @@ municipality,name,year,median_income
 1482,Kungälv,2012,258800.0
 1482,Kungälv,2013,265200.0
 1482,Kungälv,2014,272300.0
-1484,Lysekil,1999,152800.0
-1484,Lysekil,2000,158600.0
 1484,Lysekil,2001,164400.0
 1484,Lysekil,2002,171900.0
 1484,Lysekil,2003,177900.0
@@ -2687,8 +2351,6 @@ municipality,name,year,median_income
 1484,Lysekil,2012,223200.0
 1484,Lysekil,2013,229800.0
 1484,Lysekil,2014,232600.0
-1485,Uddevalla,1999,155900.0
-1485,Uddevalla,2000,160700.0
 1485,Uddevalla,2001,166500.0
 1485,Uddevalla,2002,174700.0
 1485,Uddevalla,2003,181100.0
@@ -2703,8 +2365,6 @@ municipality,name,year,median_income
 1485,Uddevalla,2012,224600.0
 1485,Uddevalla,2013,229500.0
 1485,Uddevalla,2014,234100.0
-1486,Strömstad,1999,145700.0
-1486,Strömstad,2000,152500.0
 1486,Strömstad,2001,159000.0
 1486,Strömstad,2002,168600.0
 1486,Strömstad,2003,176800.0
@@ -2719,8 +2379,6 @@ municipality,name,year,median_income
 1486,Strömstad,2012,216100.0
 1486,Strömstad,2013,222400.0
 1486,Strömstad,2014,223600.0
-1487,Vänersborg,1999,162600.0
-1487,Vänersborg,2000,167800.0
 1487,Vänersborg,2001,174700.0
 1487,Vänersborg,2002,182800.0
 1487,Vänersborg,2003,187400.0
@@ -2735,8 +2393,6 @@ municipality,name,year,median_income
 1487,Vänersborg,2012,226200.0
 1487,Vänersborg,2013,230100.0
 1487,Vänersborg,2014,234100.0
-1488,Trollhättan,1999,164600.0
-1488,Trollhättan,2000,168800.0
 1488,Trollhättan,2001,176100.0
 1488,Trollhättan,2002,185300.0
 1488,Trollhättan,2003,190300.0
@@ -2751,8 +2407,6 @@ municipality,name,year,median_income
 1488,Trollhättan,2012,220600.0
 1488,Trollhättan,2013,221800.0
 1488,Trollhättan,2014,226000.0
-1489,Alingsås,1999,158400.0
-1489,Alingsås,2000,164100.0
 1489,Alingsås,2001,171200.0
 1489,Alingsås,2002,179300.0
 1489,Alingsås,2003,186300.0
@@ -2767,8 +2421,6 @@ municipality,name,year,median_income
 1489,Alingsås,2012,236200.0
 1489,Alingsås,2013,243300.0
 1489,Alingsås,2014,248900.0
-1490,Borås,1999,157900.0
-1490,Borås,2000,162900.0
 1490,Borås,2001,169900.0
 1490,Borås,2002,176300.0
 1490,Borås,2003,181800.0
@@ -2783,8 +2435,6 @@ municipality,name,year,median_income
 1490,Borås,2012,230600.0
 1490,Borås,2013,235800.0
 1490,Borås,2014,240000.0
-1491,Ulricehamn,1999,151100.0
-1491,Ulricehamn,2000,156800.0
 1491,Ulricehamn,2001,163600.0
 1491,Ulricehamn,2002,171700.0
 1491,Ulricehamn,2003,178500.0
@@ -2799,8 +2449,6 @@ municipality,name,year,median_income
 1491,Ulricehamn,2012,230200.0
 1491,Ulricehamn,2013,238100.0
 1491,Ulricehamn,2014,242300.0
-1492,Åmål,1999,151100.0
-1492,Åmål,2000,153700.0
 1492,Åmål,2001,159700.0
 1492,Åmål,2002,168000.0
 1492,Åmål,2003,174100.0
@@ -2815,8 +2463,6 @@ municipality,name,year,median_income
 1492,Åmål,2012,201500.0
 1492,Åmål,2013,209000.0
 1492,Åmål,2014,210500.0
-1493,Mariestad,1999,155500.0
-1493,Mariestad,2000,161200.0
 1493,Mariestad,2001,167000.0
 1493,Mariestad,2002,173700.0
 1493,Mariestad,2003,180800.0
@@ -2831,8 +2477,6 @@ municipality,name,year,median_income
 1493,Mariestad,2012,219400.0
 1493,Mariestad,2013,226700.0
 1493,Mariestad,2014,229000.0
-1494,Lidköping,1999,154300.0
-1494,Lidköping,2000,159600.0
 1494,Lidköping,2001,167400.0
 1494,Lidköping,2002,175200.0
 1494,Lidköping,2003,182900.0
@@ -2847,8 +2491,6 @@ municipality,name,year,median_income
 1494,Lidköping,2012,233500.0
 1494,Lidköping,2013,238300.0
 1494,Lidköping,2014,242000.0
-1495,Skara,1999,157900.0
-1495,Skara,2000,163300.0
 1495,Skara,2001,169900.0
 1495,Skara,2002,177400.0
 1495,Skara,2003,185000.0
@@ -2863,8 +2505,6 @@ municipality,name,year,median_income
 1495,Skara,2012,223000.0
 1495,Skara,2013,225400.0
 1495,Skara,2014,231300.0
-1496,Skövde,1999,161400.0
-1496,Skövde,2000,166800.0
 1496,Skövde,2001,172900.0
 1496,Skövde,2002,179100.0
 1496,Skövde,2003,184500.0
@@ -2879,8 +2519,6 @@ municipality,name,year,median_income
 1496,Skövde,2012,240100.0
 1496,Skövde,2013,246300.0
 1496,Skövde,2014,251600.0
-1497,Hjo,1999,147700.0
-1497,Hjo,2000,153800.0
 1497,Hjo,2001,159700.0
 1497,Hjo,2002,166400.0
 1497,Hjo,2003,174900.0
@@ -2895,8 +2533,6 @@ municipality,name,year,median_income
 1497,Hjo,2012,217600.0
 1497,Hjo,2013,226700.0
 1497,Hjo,2014,229100.0
-1498,Tidaholm,1999,152000.0
-1498,Tidaholm,2000,156800.0
 1498,Tidaholm,2001,161200.0
 1498,Tidaholm,2002,168800.0
 1498,Tidaholm,2003,176500.0
@@ -2911,8 +2547,6 @@ municipality,name,year,median_income
 1498,Tidaholm,2012,217200.0
 1498,Tidaholm,2013,224900.0
 1498,Tidaholm,2014,229300.0
-1499,Falköping,1999,148200.0
-1499,Falköping,2000,154000.0
 1499,Falköping,2001,159200.0
 1499,Falköping,2002,165600.0
 1499,Falköping,2003,170800.0
@@ -2927,8 +2561,6 @@ municipality,name,year,median_income
 1499,Falköping,2012,219300.0
 1499,Falköping,2013,224900.0
 1499,Falköping,2014,227900.0
-1715,Kil,1999,155400.0
-1715,Kil,2000,160900.0
 1715,Kil,2001,166700.0
 1715,Kil,2002,172700.0
 1715,Kil,2003,179900.0
@@ -2943,8 +2575,6 @@ municipality,name,year,median_income
 1715,Kil,2012,226400.0
 1715,Kil,2013,230300.0
 1715,Kil,2014,233300.0
-1730,Eda,1999,145400.0
-1730,Eda,2000,149400.0
 1730,Eda,2001,153700.0
 1730,Eda,2002,162000.0
 1730,Eda,2003,166200.0
@@ -2959,8 +2589,6 @@ municipality,name,year,median_income
 1730,Eda,2012,190700.0
 1730,Eda,2013,196200.0
 1730,Eda,2014,197500.0
-1737,Torsby,1999,145100.0
-1737,Torsby,2000,148400.0
 1737,Torsby,2001,151200.0
 1737,Torsby,2002,157000.0
 1737,Torsby,2003,163100.0
@@ -2975,8 +2603,6 @@ municipality,name,year,median_income
 1737,Torsby,2012,203300.0
 1737,Torsby,2013,209800.0
 1737,Torsby,2014,212200.0
-1760,Storfors,1999,154400.0
-1760,Storfors,2000,155600.0
 1760,Storfors,2001,164600.0
 1760,Storfors,2002,170500.0
 1760,Storfors,2003,174400.0
@@ -2991,8 +2617,6 @@ municipality,name,year,median_income
 1760,Storfors,2012,213800.0
 1760,Storfors,2013,215700.0
 1760,Storfors,2014,217700.0
-1761,Hammarö,1999,174700.0
-1761,Hammarö,2000,181400.0
 1761,Hammarö,2001,189900.0
 1761,Hammarö,2002,195900.0
 1761,Hammarö,2003,203900.0
@@ -3007,8 +2631,6 @@ municipality,name,year,median_income
 1761,Hammarö,2012,262700.0
 1761,Hammarö,2013,272000.0
 1761,Hammarö,2014,281600.0
-1762,Munkfors,1999,152100.0
-1762,Munkfors,2000,154600.0
 1762,Munkfors,2001,157800.0
 1762,Munkfors,2002,165000.0
 1762,Munkfors,2003,171700.0
@@ -3023,8 +2645,6 @@ municipality,name,year,median_income
 1762,Munkfors,2012,197500.0
 1762,Munkfors,2013,202800.0
 1762,Munkfors,2014,202300.0
-1763,Forshaga,1999,157400.0
-1763,Forshaga,2000,161600.0
 1763,Forshaga,2001,167700.0
 1763,Forshaga,2002,172600.0
 1763,Forshaga,2003,179600.0
@@ -3039,8 +2659,6 @@ municipality,name,year,median_income
 1763,Forshaga,2012,218200.0
 1763,Forshaga,2013,224800.0
 1763,Forshaga,2014,226800.0
-1764,Grums,1999,154300.0
-1764,Grums,2000,158700.0
 1764,Grums,2001,164600.0
 1764,Grums,2002,170900.0
 1764,Grums,2003,177300.0
@@ -3055,8 +2673,6 @@ municipality,name,year,median_income
 1764,Grums,2012,212400.0
 1764,Grums,2013,218600.0
 1764,Grums,2014,220000.0
-1765,Årjäng,1999,141400.0
-1765,Årjäng,2000,146400.0
 1765,Årjäng,2001,150100.0
 1765,Årjäng,2002,154900.0
 1765,Årjäng,2003,161300.0
@@ -3071,8 +2687,6 @@ municipality,name,year,median_income
 1765,Årjäng,2012,193300.0
 1765,Årjäng,2013,197300.0
 1765,Årjäng,2014,197200.0
-1766,Sunne,1999,145300.0
-1766,Sunne,2000,150500.0
 1766,Sunne,2001,156000.0
 1766,Sunne,2002,161600.0
 1766,Sunne,2003,169200.0
@@ -3087,8 +2701,6 @@ municipality,name,year,median_income
 1766,Sunne,2012,208200.0
 1766,Sunne,2013,214600.0
 1766,Sunne,2014,215600.0
-1780,Karlstad,1999,158900.0
-1780,Karlstad,2000,163600.0
 1780,Karlstad,2001,169400.0
 1780,Karlstad,2002,176300.0
 1780,Karlstad,2003,184100.0
@@ -3103,8 +2715,6 @@ municipality,name,year,median_income
 1780,Karlstad,2012,231200.0
 1780,Karlstad,2013,237000.0
 1780,Karlstad,2014,240000.0
-1781,Kristinehamn,1999,154100.0
-1781,Kristinehamn,2000,158300.0
 1781,Kristinehamn,2001,163900.0
 1781,Kristinehamn,2002,170500.0
 1781,Kristinehamn,2003,176600.0
@@ -3119,8 +2729,6 @@ municipality,name,year,median_income
 1781,Kristinehamn,2012,210600.0
 1781,Kristinehamn,2013,216700.0
 1781,Kristinehamn,2014,217100.0
-1782,Filipstad,1999,148800.0
-1782,Filipstad,2000,152000.0
 1782,Filipstad,2001,158200.0
 1782,Filipstad,2002,165900.0
 1782,Filipstad,2003,171800.0
@@ -3135,8 +2743,6 @@ municipality,name,year,median_income
 1782,Filipstad,2012,201600.0
 1782,Filipstad,2013,207400.0
 1782,Filipstad,2014,206900.0
-1783,Hagfors,1999,153100.0
-1783,Hagfors,2000,156600.0
 1783,Hagfors,2001,160700.0
 1783,Hagfors,2002,167800.0
 1783,Hagfors,2003,174000.0
@@ -3151,8 +2757,6 @@ municipality,name,year,median_income
 1783,Hagfors,2012,206800.0
 1783,Hagfors,2013,213800.0
 1783,Hagfors,2014,217100.0
-1784,Arvika,1999,148600.0
-1784,Arvika,2000,152400.0
 1784,Arvika,2001,158200.0
 1784,Arvika,2002,165000.0
 1784,Arvika,2003,172100.0
@@ -3167,8 +2771,6 @@ municipality,name,year,median_income
 1784,Arvika,2012,213300.0
 1784,Arvika,2013,217800.0
 1784,Arvika,2014,221800.0
-1785,Säffle,1999,147700.0
-1785,Säffle,2000,152000.0
 1785,Säffle,2001,157000.0
 1785,Säffle,2002,164700.0
 1785,Säffle,2003,170800.0
@@ -3183,8 +2785,6 @@ municipality,name,year,median_income
 1785,Säffle,2012,203300.0
 1785,Säffle,2013,208700.0
 1785,Säffle,2014,206600.0
-1814,Lekeberg,1999,150600.0
-1814,Lekeberg,2000,156000.0
 1814,Lekeberg,2001,164200.0
 1814,Lekeberg,2002,174600.0
 1814,Lekeberg,2003,179500.0
@@ -3199,8 +2799,6 @@ municipality,name,year,median_income
 1814,Lekeberg,2012,230200.0
 1814,Lekeberg,2013,239200.0
 1814,Lekeberg,2014,243600.0
-1860,Laxå,1999,159100.0
-1860,Laxå,2000,163100.0
 1860,Laxå,2001,168200.0
 1860,Laxå,2002,173000.0
 1860,Laxå,2003,177900.0
@@ -3215,8 +2813,6 @@ municipality,name,year,median_income
 1860,Laxå,2012,219700.0
 1860,Laxå,2013,223500.0
 1860,Laxå,2014,217300.0
-1861,Hallsberg,1999,159800.0
-1861,Hallsberg,2000,165500.0
 1861,Hallsberg,2001,168800.0
 1861,Hallsberg,2002,175900.0
 1861,Hallsberg,2003,180600.0
@@ -3231,8 +2827,6 @@ municipality,name,year,median_income
 1861,Hallsberg,2012,221100.0
 1861,Hallsberg,2013,227300.0
 1861,Hallsberg,2014,232300.0
-1862,Degerfors,1999,157100.0
-1862,Degerfors,2000,162000.0
 1862,Degerfors,2001,169900.0
 1862,Degerfors,2002,175500.0
 1862,Degerfors,2003,181900.0
@@ -3247,8 +2841,6 @@ municipality,name,year,median_income
 1862,Degerfors,2012,215600.0
 1862,Degerfors,2013,218400.0
 1862,Degerfors,2014,220300.0
-1863,Hällefors,1999,151400.0
-1863,Hällefors,2000,155000.0
 1863,Hällefors,2001,160100.0
 1863,Hällefors,2002,165700.0
 1863,Hällefors,2003,172800.0
@@ -3263,8 +2855,6 @@ municipality,name,year,median_income
 1863,Hällefors,2012,203200.0
 1863,Hällefors,2013,209700.0
 1863,Hällefors,2014,210100.0
-1864,Ljusnarsberg,1999,146400.0
-1864,Ljusnarsberg,2000,149500.0
 1864,Ljusnarsberg,2001,154900.0
 1864,Ljusnarsberg,2002,162000.0
 1864,Ljusnarsberg,2003,168000.0
@@ -3279,8 +2869,6 @@ municipality,name,year,median_income
 1864,Ljusnarsberg,2012,196500.0
 1864,Ljusnarsberg,2013,202100.0
 1864,Ljusnarsberg,2014,203300.0
-1880,Örebro,1999,154300.0
-1880,Örebro,2000,160200.0
 1880,Örebro,2001,166400.0
 1880,Örebro,2002,174600.0
 1880,Örebro,2003,179600.0
@@ -3295,8 +2883,6 @@ municipality,name,year,median_income
 1880,Örebro,2012,229200.0
 1880,Örebro,2013,235500.0
 1880,Örebro,2014,239000.0
-1881,Kumla,1999,171200.0
-1881,Kumla,2000,177500.0
 1881,Kumla,2001,181500.0
 1881,Kumla,2002,187800.0
 1881,Kumla,2003,190900.0
@@ -3311,8 +2897,6 @@ municipality,name,year,median_income
 1881,Kumla,2012,235800.0
 1881,Kumla,2013,239900.0
 1881,Kumla,2014,245800.0
-1882,Askersund,1999,154700.0
-1882,Askersund,2000,160100.0
 1882,Askersund,2001,163800.0
 1882,Askersund,2002,171900.0
 1882,Askersund,2003,178300.0
@@ -3327,8 +2911,6 @@ municipality,name,year,median_income
 1882,Askersund,2012,223300.0
 1882,Askersund,2013,230300.0
 1882,Askersund,2014,235400.0
-1883,Karlskoga,1999,165100.0
-1883,Karlskoga,2000,169900.0
 1883,Karlskoga,2001,175400.0
 1883,Karlskoga,2002,182100.0
 1883,Karlskoga,2003,187200.0
@@ -3343,8 +2925,6 @@ municipality,name,year,median_income
 1883,Karlskoga,2012,227000.0
 1883,Karlskoga,2013,231400.0
 1883,Karlskoga,2014,232200.0
-1884,Nora,1999,154500.0
-1884,Nora,2000,160600.0
 1884,Nora,2001,166000.0
 1884,Nora,2002,173500.0
 1884,Nora,2003,179700.0
@@ -3359,8 +2939,6 @@ municipality,name,year,median_income
 1884,Nora,2012,223100.0
 1884,Nora,2013,228700.0
 1884,Nora,2014,230400.0
-1885,Lindesberg,1999,155900.0
-1885,Lindesberg,2000,160200.0
 1885,Lindesberg,2001,166400.0
 1885,Lindesberg,2002,172900.0
 1885,Lindesberg,2003,179800.0
@@ -3375,8 +2953,6 @@ municipality,name,year,median_income
 1885,Lindesberg,2012,222700.0
 1885,Lindesberg,2013,228400.0
 1885,Lindesberg,2014,229800.0
-1904,Skinnskatteberg,1999,154600.0
-1904,Skinnskatteberg,2000,158000.0
 1904,Skinnskatteberg,2001,163600.0
 1904,Skinnskatteberg,2002,171900.0
 1904,Skinnskatteberg,2003,175900.0
@@ -3391,8 +2967,6 @@ municipality,name,year,median_income
 1904,Skinnskatteberg,2012,214700.0
 1904,Skinnskatteberg,2013,222500.0
 1904,Skinnskatteberg,2014,221700.0
-1907,Surahammar,1999,165700.0
-1907,Surahammar,2000,171000.0
 1907,Surahammar,2001,179400.0
 1907,Surahammar,2002,185800.0
 1907,Surahammar,2003,191200.0
@@ -3407,8 +2981,6 @@ municipality,name,year,median_income
 1907,Surahammar,2012,226900.0
 1907,Surahammar,2013,231300.0
 1907,Surahammar,2014,233800.0
-1960,Kungsör,1999,161500.0
-1960,Kungsör,2000,166800.0
 1960,Kungsör,2001,171400.0
 1960,Kungsör,2002,177600.0
 1960,Kungsör,2003,184000.0
@@ -3423,8 +2995,6 @@ municipality,name,year,median_income
 1960,Kungsör,2012,225200.0
 1960,Kungsör,2013,230500.0
 1960,Kungsör,2014,232000.0
-1961,Hallstahammar,1999,160200.0
-1961,Hallstahammar,2000,165000.0
 1961,Hallstahammar,2001,170400.0
 1961,Hallstahammar,2002,177400.0
 1961,Hallstahammar,2003,184900.0
@@ -3439,8 +3009,6 @@ municipality,name,year,median_income
 1961,Hallstahammar,2012,219600.0
 1961,Hallstahammar,2013,225000.0
 1961,Hallstahammar,2014,228600.0
-1962,Norberg,1999,155000.0
-1962,Norberg,2000,159200.0
 1962,Norberg,2001,163400.0
 1962,Norberg,2002,170600.0
 1962,Norberg,2003,177800.0
@@ -3455,8 +3023,6 @@ municipality,name,year,median_income
 1962,Norberg,2012,217200.0
 1962,Norberg,2013,227100.0
 1962,Norberg,2014,227700.0
-1980,Västerås,1999,163600.0
-1980,Västerås,2000,168900.0
 1980,Västerås,2001,176200.0
 1980,Västerås,2002,183400.0
 1980,Västerås,2003,188800.0
@@ -3471,8 +3037,6 @@ municipality,name,year,median_income
 1980,Västerås,2012,237100.0
 1980,Västerås,2013,243600.0
 1980,Västerås,2014,248500.0
-1981,Sala,1999,150200.0
-1981,Sala,2000,155300.0
 1981,Sala,2001,161300.0
 1981,Sala,2002,166100.0
 1981,Sala,2003,171900.0
@@ -3487,8 +3051,6 @@ municipality,name,year,median_income
 1981,Sala,2012,219200.0
 1981,Sala,2013,225600.0
 1981,Sala,2014,228800.0
-1982,Fagersta,1999,163700.0
-1982,Fagersta,2000,167400.0
 1982,Fagersta,2001,173700.0
 1982,Fagersta,2002,181300.0
 1982,Fagersta,2003,186700.0
@@ -3503,8 +3065,6 @@ municipality,name,year,median_income
 1982,Fagersta,2012,227800.0
 1982,Fagersta,2013,235200.0
 1982,Fagersta,2014,237000.0
-1983,Köping,1999,155600.0
-1983,Köping,2000,160800.0
 1983,Köping,2001,167900.0
 1983,Köping,2002,174600.0
 1983,Köping,2003,182600.0
@@ -3519,8 +3079,6 @@ municipality,name,year,median_income
 1983,Köping,2012,219600.0
 1983,Köping,2013,225500.0
 1983,Köping,2014,229400.0
-1984,Arboga,1999,157600.0
-1984,Arboga,2000,162600.0
 1984,Arboga,2001,168800.0
 1984,Arboga,2002,175400.0
 1984,Arboga,2003,180500.0
@@ -3535,8 +3093,6 @@ municipality,name,year,median_income
 1984,Arboga,2012,216600.0
 1984,Arboga,2013,222000.0
 1984,Arboga,2014,223800.0
-2021,Vansbro,1999,144200.0
-2021,Vansbro,2000,148200.0
 2021,Vansbro,2001,152700.0
 2021,Vansbro,2002,160800.0
 2021,Vansbro,2003,166200.0
@@ -3551,8 +3107,6 @@ municipality,name,year,median_income
 2021,Vansbro,2012,196800.0
 2021,Vansbro,2013,202000.0
 2021,Vansbro,2014,205500.0
-2023,Malung-Sälen,1999,148300.0
-2023,Malung-Sälen,2000,151300.0
 2023,Malung-Sälen,2001,156400.0
 2023,Malung-Sälen,2002,165800.0
 2023,Malung-Sälen,2003,172400.0
@@ -3567,8 +3121,6 @@ municipality,name,year,median_income
 2023,Malung-Sälen,2012,210400.0
 2023,Malung-Sälen,2013,217000.0
 2023,Malung-Sälen,2014,223100.0
-2026,Gagnef,1999,151800.0
-2026,Gagnef,2000,157100.0
 2026,Gagnef,2001,163200.0
 2026,Gagnef,2002,170700.0
 2026,Gagnef,2003,177100.0
@@ -3583,8 +3135,6 @@ municipality,name,year,median_income
 2026,Gagnef,2012,228100.0
 2026,Gagnef,2013,234700.0
 2026,Gagnef,2014,239400.0
-2029,Leksand,1999,149200.0
-2029,Leksand,2000,153600.0
 2029,Leksand,2001,161200.0
 2029,Leksand,2002,168600.0
 2029,Leksand,2003,175100.0
@@ -3599,8 +3149,6 @@ municipality,name,year,median_income
 2029,Leksand,2012,224300.0
 2029,Leksand,2013,231300.0
 2029,Leksand,2014,233600.0
-2031,Rättvik,1999,141800.0
-2031,Rättvik,2000,145700.0
 2031,Rättvik,2001,151800.0
 2031,Rättvik,2002,158800.0
 2031,Rättvik,2003,165900.0
@@ -3615,8 +3163,6 @@ municipality,name,year,median_income
 2031,Rättvik,2012,207700.0
 2031,Rättvik,2013,215000.0
 2031,Rättvik,2014,217000.0
-2034,Orsa,1999,143400.0
-2034,Orsa,2000,147200.0
 2034,Orsa,2001,150200.0
 2034,Orsa,2002,159500.0
 2034,Orsa,2003,166400.0
@@ -3631,8 +3177,6 @@ municipality,name,year,median_income
 2034,Orsa,2012,196800.0
 2034,Orsa,2013,201600.0
 2034,Orsa,2014,206600.0
-2039,Älvdalen,1999,143500.0
-2039,Älvdalen,2000,145500.0
 2039,Älvdalen,2001,150200.0
 2039,Älvdalen,2002,159200.0
 2039,Älvdalen,2003,164700.0
@@ -3647,8 +3191,6 @@ municipality,name,year,median_income
 2039,Älvdalen,2012,203600.0
 2039,Älvdalen,2013,212000.0
 2039,Älvdalen,2014,216100.0
-2061,Smedjebacken,1999,158900.0
-2061,Smedjebacken,2000,164800.0
 2061,Smedjebacken,2001,171500.0
 2061,Smedjebacken,2002,179600.0
 2061,Smedjebacken,2003,186400.0
@@ -3663,8 +3205,6 @@ municipality,name,year,median_income
 2061,Smedjebacken,2012,231100.0
 2061,Smedjebacken,2013,237600.0
 2061,Smedjebacken,2014,241100.0
-2062,Mora,1999,155100.0
-2062,Mora,2000,159700.0
 2062,Mora,2001,165400.0
 2062,Mora,2002,173700.0
 2062,Mora,2003,181400.0
@@ -3679,8 +3219,6 @@ municipality,name,year,median_income
 2062,Mora,2012,223000.0
 2062,Mora,2013,230900.0
 2062,Mora,2014,236100.0
-2080,Falun,1999,161000.0
-2080,Falun,2000,165800.0
 2080,Falun,2001,171700.0
 2080,Falun,2002,179600.0
 2080,Falun,2003,186800.0
@@ -3695,8 +3233,6 @@ municipality,name,year,median_income
 2080,Falun,2012,239400.0
 2080,Falun,2013,246000.0
 2080,Falun,2014,251100.0
-2081,Borlänge,1999,157800.0
-2081,Borlänge,2000,162900.0
 2081,Borlänge,2001,169800.0
 2081,Borlänge,2002,177300.0
 2081,Borlänge,2003,184500.0
@@ -3711,8 +3247,6 @@ municipality,name,year,median_income
 2081,Borlänge,2012,227300.0
 2081,Borlänge,2013,235000.0
 2081,Borlänge,2014,237600.0
-2082,Säter,1999,155100.0
-2082,Säter,2000,160400.0
 2082,Säter,2001,167300.0
 2082,Säter,2002,175400.0
 2082,Säter,2003,180600.0
@@ -3727,8 +3261,6 @@ municipality,name,year,median_income
 2082,Säter,2012,232000.0
 2082,Säter,2013,239000.0
 2082,Säter,2014,244200.0
-2083,Hedemora,1999,152600.0
-2083,Hedemora,2000,157200.0
 2083,Hedemora,2001,163400.0
 2083,Hedemora,2002,170000.0
 2083,Hedemora,2003,176300.0
@@ -3743,8 +3275,6 @@ municipality,name,year,median_income
 2083,Hedemora,2012,220300.0
 2083,Hedemora,2013,222800.0
 2083,Hedemora,2014,227200.0
-2084,Avesta,1999,157800.0
-2084,Avesta,2000,162400.0
 2084,Avesta,2001,168900.0
 2084,Avesta,2002,177500.0
 2084,Avesta,2003,185500.0
@@ -3759,8 +3289,6 @@ municipality,name,year,median_income
 2084,Avesta,2012,229300.0
 2084,Avesta,2013,235100.0
 2084,Avesta,2014,234900.0
-2085,Ludvika,1999,156400.0
-2085,Ludvika,2000,160800.0
 2085,Ludvika,2001,166200.0
 2085,Ludvika,2002,173700.0
 2085,Ludvika,2003,180400.0
@@ -3775,8 +3303,6 @@ municipality,name,year,median_income
 2085,Ludvika,2012,226300.0
 2085,Ludvika,2013,234800.0
 2085,Ludvika,2014,236000.0
-2101,Ockelbo,1999,144900.0
-2101,Ockelbo,2000,150100.0
 2101,Ockelbo,2001,156000.0
 2101,Ockelbo,2002,163100.0
 2101,Ockelbo,2003,170700.0
@@ -3791,8 +3317,6 @@ municipality,name,year,median_income
 2101,Ockelbo,2012,211300.0
 2101,Ockelbo,2013,219500.0
 2101,Ockelbo,2014,219600.0
-2104,Hofors,1999,164100.0
-2104,Hofors,2000,168400.0
 2104,Hofors,2001,173800.0
 2104,Hofors,2002,179600.0
 2104,Hofors,2003,186300.0
@@ -3807,8 +3331,6 @@ municipality,name,year,median_income
 2104,Hofors,2012,228200.0
 2104,Hofors,2013,233900.0
 2104,Hofors,2014,236200.0
-2121,Ovanåker,1999,145800.0
-2121,Ovanåker,2000,150500.0
 2121,Ovanåker,2001,154200.0
 2121,Ovanåker,2002,162800.0
 2121,Ovanåker,2003,169500.0
@@ -3823,8 +3345,6 @@ municipality,name,year,median_income
 2121,Ovanåker,2012,213800.0
 2121,Ovanåker,2013,218200.0
 2121,Ovanåker,2014,219700.0
-2132,Nordanstig,1999,144400.0
-2132,Nordanstig,2000,149000.0
 2132,Nordanstig,2001,153700.0
 2132,Nordanstig,2002,162700.0
 2132,Nordanstig,2003,168700.0
@@ -3839,8 +3359,6 @@ municipality,name,year,median_income
 2132,Nordanstig,2012,207300.0
 2132,Nordanstig,2013,212700.0
 2132,Nordanstig,2014,216600.0
-2161,Ljusdal,1999,147800.0
-2161,Ljusdal,2000,151900.0
 2161,Ljusdal,2001,156800.0
 2161,Ljusdal,2002,165300.0
 2161,Ljusdal,2003,172200.0
@@ -3855,8 +3373,6 @@ municipality,name,year,median_income
 2161,Ljusdal,2012,210500.0
 2161,Ljusdal,2013,216000.0
 2161,Ljusdal,2014,218500.0
-2180,Gävle,1999,162500.0
-2180,Gävle,2000,167200.0
 2180,Gävle,2001,173400.0
 2180,Gävle,2002,179700.0
 2180,Gävle,2003,186500.0
@@ -3871,8 +3387,6 @@ municipality,name,year,median_income
 2180,Gävle,2012,232100.0
 2180,Gävle,2013,239500.0
 2180,Gävle,2014,241800.0
-2181,Sandviken,1999,162100.0
-2181,Sandviken,2000,167100.0
 2181,Sandviken,2001,172600.0
 2181,Sandviken,2002,180000.0
 2181,Sandviken,2003,188000.0
@@ -3887,8 +3401,6 @@ municipality,name,year,median_income
 2181,Sandviken,2012,227200.0
 2181,Sandviken,2013,233500.0
 2181,Sandviken,2014,235000.0
-2182,Söderhamn,1999,156100.0
-2182,Söderhamn,2000,161100.0
 2182,Söderhamn,2001,166700.0
 2182,Söderhamn,2002,170900.0
 2182,Söderhamn,2003,176600.0
@@ -3903,8 +3415,6 @@ municipality,name,year,median_income
 2182,Söderhamn,2012,212400.0
 2182,Söderhamn,2013,219300.0
 2182,Söderhamn,2014,221400.0
-2183,Bollnäs,1999,149700.0
-2183,Bollnäs,2000,153400.0
 2183,Bollnäs,2001,158600.0
 2183,Bollnäs,2002,166000.0
 2183,Bollnäs,2003,173700.0
@@ -3919,8 +3429,6 @@ municipality,name,year,median_income
 2183,Bollnäs,2012,213600.0
 2183,Bollnäs,2013,218700.0
 2183,Bollnäs,2014,220900.0
-2184,Hudiksvall,1999,153000.0
-2184,Hudiksvall,2000,157700.0
 2184,Hudiksvall,2001,163600.0
 2184,Hudiksvall,2002,170800.0
 2184,Hudiksvall,2003,176800.0
@@ -3935,8 +3443,6 @@ municipality,name,year,median_income
 2184,Hudiksvall,2012,222200.0
 2184,Hudiksvall,2013,230300.0
 2184,Hudiksvall,2014,233000.0
-2260,Ånge,1999,150700.0
-2260,Ånge,2000,155100.0
 2260,Ånge,2001,160600.0
 2260,Ånge,2002,167900.0
 2260,Ånge,2003,173900.0
@@ -3951,8 +3457,6 @@ municipality,name,year,median_income
 2260,Ånge,2012,214300.0
 2260,Ånge,2013,217200.0
 2260,Ånge,2014,224300.0
-2262,Timrå,1999,164000.0
-2262,Timrå,2000,169700.0
 2262,Timrå,2001,177100.0
 2262,Timrå,2002,185400.0
 2262,Timrå,2003,191200.0
@@ -3967,8 +3471,6 @@ municipality,name,year,median_income
 2262,Timrå,2012,232700.0
 2262,Timrå,2013,237800.0
 2262,Timrå,2014,241500.0
-2280,Härnösand,1999,158400.0
-2280,Härnösand,2000,162400.0
 2280,Härnösand,2001,170400.0
 2280,Härnösand,2002,177400.0
 2280,Härnösand,2003,183200.0
@@ -3983,8 +3485,6 @@ municipality,name,year,median_income
 2280,Härnösand,2012,220600.0
 2280,Härnösand,2013,226600.0
 2280,Härnösand,2014,228300.0
-2281,Sundsvall,1999,165600.0
-2281,Sundsvall,2000,171700.0
 2281,Sundsvall,2001,179200.0
 2281,Sundsvall,2002,187600.0
 2281,Sundsvall,2003,194200.0
@@ -3999,8 +3499,6 @@ municipality,name,year,median_income
 2281,Sundsvall,2012,242800.0
 2281,Sundsvall,2013,250300.0
 2281,Sundsvall,2014,254700.0
-2282,Kramfors,1999,150200.0
-2282,Kramfors,2000,154400.0
 2282,Kramfors,2001,159300.0
 2282,Kramfors,2002,166300.0
 2282,Kramfors,2003,174000.0
@@ -4015,8 +3513,6 @@ municipality,name,year,median_income
 2282,Kramfors,2012,209600.0
 2282,Kramfors,2013,216300.0
 2282,Kramfors,2014,219600.0
-2283,Sollefteå,1999,149100.0
-2283,Sollefteå,2000,153500.0
 2283,Sollefteå,2001,158300.0
 2283,Sollefteå,2002,165000.0
 2283,Sollefteå,2003,171000.0
@@ -4031,8 +3527,6 @@ municipality,name,year,median_income
 2283,Sollefteå,2012,207900.0
 2283,Sollefteå,2013,214300.0
 2283,Sollefteå,2014,216300.0
-2284,Örnsköldsvik,1999,157600.0
-2284,Örnsköldsvik,2000,162700.0
 2284,Örnsköldsvik,2001,169900.0
 2284,Örnsköldsvik,2002,177700.0
 2284,Örnsköldsvik,2003,185100.0
@@ -4047,8 +3541,6 @@ municipality,name,year,median_income
 2284,Örnsköldsvik,2012,233700.0
 2284,Örnsköldsvik,2013,241100.0
 2284,Örnsköldsvik,2014,244500.0
-2303,Ragunda,1999,144100.0
-2303,Ragunda,2000,147900.0
 2303,Ragunda,2001,154900.0
 2303,Ragunda,2002,160700.0
 2303,Ragunda,2003,166700.0
@@ -4063,8 +3555,6 @@ municipality,name,year,median_income
 2303,Ragunda,2012,198400.0
 2303,Ragunda,2013,207900.0
 2303,Ragunda,2014,213500.0
-2305,Bräcke,1999,142900.0
-2305,Bräcke,2000,147200.0
 2305,Bräcke,2001,155200.0
 2305,Bräcke,2002,162800.0
 2305,Bräcke,2003,169600.0
@@ -4079,8 +3569,6 @@ municipality,name,year,median_income
 2305,Bräcke,2012,201800.0
 2305,Bräcke,2013,208300.0
 2305,Bräcke,2014,211400.0
-2309,Krokom,1999,150900.0
-2309,Krokom,2000,155300.0
 2309,Krokom,2001,161200.0
 2309,Krokom,2002,170900.0
 2309,Krokom,2003,175900.0
@@ -4095,8 +3583,6 @@ municipality,name,year,median_income
 2309,Krokom,2012,228500.0
 2309,Krokom,2013,237400.0
 2309,Krokom,2014,243600.0
-2313,Strömsund,1999,142800.0
-2313,Strömsund,2000,146100.0
 2313,Strömsund,2001,150400.0
 2313,Strömsund,2002,157300.0
 2313,Strömsund,2003,163100.0
@@ -4111,8 +3597,6 @@ municipality,name,year,median_income
 2313,Strömsund,2012,201700.0
 2313,Strömsund,2013,209200.0
 2313,Strömsund,2014,210900.0
-2321,Åre,1999,144300.0
-2321,Åre,2000,147800.0
 2321,Åre,2001,153200.0
 2321,Åre,2002,160600.0
 2321,Åre,2003,166300.0
@@ -4127,8 +3611,6 @@ municipality,name,year,median_income
 2321,Åre,2012,215400.0
 2321,Åre,2013,221200.0
 2321,Åre,2014,223800.0
-2326,Berg,1999,139200.0
-2326,Berg,2000,142400.0
 2326,Berg,2001,148300.0
 2326,Berg,2002,155400.0
 2326,Berg,2003,159000.0
@@ -4143,8 +3625,6 @@ municipality,name,year,median_income
 2326,Berg,2012,197700.0
 2326,Berg,2013,205900.0
 2326,Berg,2014,210800.0
-2361,Härjedalen,1999,147200.0
-2361,Härjedalen,2000,150300.0
 2361,Härjedalen,2001,155200.0
 2361,Härjedalen,2002,161600.0
 2361,Härjedalen,2003,167900.0
@@ -4159,8 +3639,6 @@ municipality,name,year,median_income
 2361,Härjedalen,2012,206200.0
 2361,Härjedalen,2013,211800.0
 2361,Härjedalen,2014,215600.0
-2380,Östersund,1999,160300.0
-2380,Östersund,2000,166000.0
 2380,Östersund,2001,172800.0
 2380,Östersund,2002,180300.0
 2380,Östersund,2003,186300.0
@@ -4175,8 +3653,6 @@ municipality,name,year,median_income
 2380,Östersund,2012,230400.0
 2380,Östersund,2013,237900.0
 2380,Östersund,2014,240800.0
-2401,Nordmaling,1999,147900.0
-2401,Nordmaling,2000,150900.0
 2401,Nordmaling,2001,156300.0
 2401,Nordmaling,2002,164300.0
 2401,Nordmaling,2003,168400.0
@@ -4191,8 +3667,6 @@ municipality,name,year,median_income
 2401,Nordmaling,2012,212800.0
 2401,Nordmaling,2013,218000.0
 2401,Nordmaling,2014,221000.0
-2403,Bjurholm,1999,136600.0
-2403,Bjurholm,2000,141400.0
 2403,Bjurholm,2001,146700.0
 2403,Bjurholm,2002,151400.0
 2403,Bjurholm,2003,160500.0
@@ -4207,8 +3681,6 @@ municipality,name,year,median_income
 2403,Bjurholm,2012,191500.0
 2403,Bjurholm,2013,200300.0
 2403,Bjurholm,2014,201900.0
-2404,Vindeln,1999,139500.0
-2404,Vindeln,2000,146100.0
 2404,Vindeln,2001,149700.0
 2404,Vindeln,2002,156800.0
 2404,Vindeln,2003,165000.0
@@ -4223,8 +3695,6 @@ municipality,name,year,median_income
 2404,Vindeln,2012,213800.0
 2404,Vindeln,2013,222400.0
 2404,Vindeln,2014,221200.0
-2409,Robertsfors,1999,147300.0
-2409,Robertsfors,2000,153800.0
 2409,Robertsfors,2001,158500.0
 2409,Robertsfors,2002,165600.0
 2409,Robertsfors,2003,173100.0
@@ -4239,8 +3709,6 @@ municipality,name,year,median_income
 2409,Robertsfors,2012,220800.0
 2409,Robertsfors,2013,229500.0
 2409,Robertsfors,2014,232900.0
-2417,Norsjö,1999,149000.0
-2417,Norsjö,2000,153200.0
 2417,Norsjö,2001,158600.0
 2417,Norsjö,2002,165100.0
 2417,Norsjö,2003,175100.0
@@ -4255,8 +3723,6 @@ municipality,name,year,median_income
 2417,Norsjö,2012,216700.0
 2417,Norsjö,2013,223100.0
 2417,Norsjö,2014,226500.0
-2418,Malå,1999,157500.0
-2418,Malå,2000,162100.0
 2418,Malå,2001,168500.0
 2418,Malå,2002,176300.0
 2418,Malå,2003,184200.0
@@ -4271,8 +3737,6 @@ municipality,name,year,median_income
 2418,Malå,2012,227000.0
 2418,Malå,2013,232700.0
 2418,Malå,2014,238400.0
-2421,Storuman,1999,144100.0
-2421,Storuman,2000,147800.0
 2421,Storuman,2001,153000.0
 2421,Storuman,2002,160100.0
 2421,Storuman,2003,166100.0
@@ -4287,8 +3751,6 @@ municipality,name,year,median_income
 2421,Storuman,2012,207000.0
 2421,Storuman,2013,211700.0
 2421,Storuman,2014,214300.0
-2422,Sorsele,1999,142400.0
-2422,Sorsele,2000,145100.0
 2422,Sorsele,2001,150500.0
 2422,Sorsele,2002,155200.0
 2422,Sorsele,2003,163400.0
@@ -4303,8 +3765,6 @@ municipality,name,year,median_income
 2422,Sorsele,2012,200000.0
 2422,Sorsele,2013,210000.0
 2422,Sorsele,2014,213500.0
-2425,Dorotea,1999,142200.0
-2425,Dorotea,2000,146800.0
 2425,Dorotea,2001,150500.0
 2425,Dorotea,2002,157900.0
 2425,Dorotea,2003,165200.0
@@ -4319,8 +3779,6 @@ municipality,name,year,median_income
 2425,Dorotea,2012,205400.0
 2425,Dorotea,2013,210200.0
 2425,Dorotea,2014,214000.0
-2460,Vännäs,1999,155600.0
-2460,Vännäs,2000,158800.0
 2460,Vännäs,2001,164600.0
 2460,Vännäs,2002,172000.0
 2460,Vännäs,2003,177000.0
@@ -4335,8 +3793,6 @@ municipality,name,year,median_income
 2460,Vännäs,2012,225700.0
 2460,Vännäs,2013,232900.0
 2460,Vännäs,2014,235900.0
-2462,Vilhelmina,1999,144900.0
-2462,Vilhelmina,2000,148100.0
 2462,Vilhelmina,2001,151400.0
 2462,Vilhelmina,2002,158900.0
 2462,Vilhelmina,2003,163900.0
@@ -4351,8 +3807,6 @@ municipality,name,year,median_income
 2462,Vilhelmina,2012,200100.0
 2462,Vilhelmina,2013,205900.0
 2462,Vilhelmina,2014,209700.0
-2463,Åsele,1999,142600.0
-2463,Åsele,2000,146600.0
 2463,Åsele,2001,150000.0
 2463,Åsele,2002,154900.0
 2463,Åsele,2003,162600.0
@@ -4367,8 +3821,6 @@ municipality,name,year,median_income
 2463,Åsele,2012,194000.0
 2463,Åsele,2013,201300.0
 2463,Åsele,2014,206400.0
-2480,Umeå,1999,163300.0
-2480,Umeå,2000,167900.0
 2480,Umeå,2001,174600.0
 2480,Umeå,2002,180400.0
 2480,Umeå,2003,186300.0
@@ -4383,8 +3835,6 @@ municipality,name,year,median_income
 2480,Umeå,2012,237700.0
 2480,Umeå,2013,244900.0
 2480,Umeå,2014,249600.0
-2481,Lycksele,1999,155000.0
-2481,Lycksele,2000,160600.0
 2481,Lycksele,2001,165500.0
 2481,Lycksele,2002,170800.0
 2481,Lycksele,2003,178000.0
@@ -4399,8 +3849,6 @@ municipality,name,year,median_income
 2481,Lycksele,2012,226300.0
 2481,Lycksele,2013,230900.0
 2481,Lycksele,2014,233700.0
-2482,Skellefteå,1999,159400.0
-2482,Skellefteå,2000,164100.0
 2482,Skellefteå,2001,169200.0
 2482,Skellefteå,2002,176000.0
 2482,Skellefteå,2003,182000.0
@@ -4415,8 +3863,6 @@ municipality,name,year,median_income
 2482,Skellefteå,2012,233500.0
 2482,Skellefteå,2013,240000.0
 2482,Skellefteå,2014,242500.0
-2505,Arvidsjaur,1999,151400.0
-2505,Arvidsjaur,2000,156200.0
 2505,Arvidsjaur,2001,160600.0
 2505,Arvidsjaur,2002,168300.0
 2505,Arvidsjaur,2003,175800.0
@@ -4431,8 +3877,6 @@ municipality,name,year,median_income
 2505,Arvidsjaur,2012,224700.0
 2505,Arvidsjaur,2013,231200.0
 2505,Arvidsjaur,2014,235800.0
-2506,Arjeplog,1999,150700.0
-2506,Arjeplog,2000,155600.0
 2506,Arjeplog,2001,159600.0
 2506,Arjeplog,2002,164600.0
 2506,Arjeplog,2003,168300.0
@@ -4447,8 +3891,6 @@ municipality,name,year,median_income
 2506,Arjeplog,2012,216500.0
 2506,Arjeplog,2013,224100.0
 2506,Arjeplog,2014,226600.0
-2510,Jokkmokk,1999,151400.0
-2510,Jokkmokk,2000,155300.0
 2510,Jokkmokk,2001,160100.0
 2510,Jokkmokk,2002,165700.0
 2510,Jokkmokk,2003,172500.0
@@ -4463,8 +3905,6 @@ municipality,name,year,median_income
 2510,Jokkmokk,2012,212500.0
 2510,Jokkmokk,2013,221900.0
 2510,Jokkmokk,2014,227800.0
-2513,Överkalix,1999,148000.0
-2513,Överkalix,2000,149500.0
 2513,Överkalix,2001,152800.0
 2513,Överkalix,2002,159800.0
 2513,Överkalix,2003,166900.0
@@ -4479,8 +3919,6 @@ municipality,name,year,median_income
 2513,Överkalix,2012,208200.0
 2513,Överkalix,2013,212400.0
 2513,Överkalix,2014,216800.0
-2514,Kalix,1999,156200.0
-2514,Kalix,2000,161300.0
 2514,Kalix,2001,167300.0
 2514,Kalix,2002,172000.0
 2514,Kalix,2003,179900.0
@@ -4495,8 +3933,6 @@ municipality,name,year,median_income
 2514,Kalix,2012,223200.0
 2514,Kalix,2013,230600.0
 2514,Kalix,2014,232400.0
-2518,Övertorneå,1999,142300.0
-2518,Övertorneå,2000,145000.0
 2518,Övertorneå,2001,147800.0
 2518,Övertorneå,2002,155500.0
 2518,Övertorneå,2003,163500.0
@@ -4511,8 +3947,6 @@ municipality,name,year,median_income
 2518,Övertorneå,2012,202200.0
 2518,Övertorneå,2013,207800.0
 2518,Övertorneå,2014,206000.0
-2521,Pajala,1999,142300.0
-2521,Pajala,2000,145500.0
 2521,Pajala,2001,148300.0
 2521,Pajala,2002,154000.0
 2521,Pajala,2003,160000.0
@@ -4527,8 +3961,6 @@ municipality,name,year,median_income
 2521,Pajala,2012,206200.0
 2521,Pajala,2013,219400.0
 2521,Pajala,2014,225000.0
-2523,Gällivare,1999,170600.0
-2523,Gällivare,2000,174500.0
 2523,Gällivare,2001,180200.0
 2523,Gällivare,2002,186800.0
 2523,Gällivare,2003,192400.0
@@ -4543,8 +3975,6 @@ municipality,name,year,median_income
 2523,Gällivare,2012,257800.0
 2523,Gällivare,2013,268600.0
 2523,Gällivare,2014,275800.0
-2560,Älvsbyn,1999,152500.0
-2560,Älvsbyn,2000,156000.0
 2560,Älvsbyn,2001,161700.0
 2560,Älvsbyn,2002,167700.0
 2560,Älvsbyn,2003,174600.0
@@ -4559,8 +3989,6 @@ municipality,name,year,median_income
 2560,Älvsbyn,2012,214000.0
 2560,Älvsbyn,2013,221100.0
 2560,Älvsbyn,2014,225300.0
-2580,Luleå,1999,167800.0
-2580,Luleå,2000,171500.0
 2580,Luleå,2001,177800.0
 2580,Luleå,2002,185000.0
 2580,Luleå,2003,190000.0
@@ -4575,8 +4003,6 @@ municipality,name,year,median_income
 2580,Luleå,2012,241500.0
 2580,Luleå,2013,251000.0
 2580,Luleå,2014,255600.0
-2581,Piteå,1999,162000.0
-2581,Piteå,2000,167400.0
 2581,Piteå,2001,173300.0
 2581,Piteå,2002,180700.0
 2581,Piteå,2003,186200.0
@@ -4591,8 +4017,6 @@ municipality,name,year,median_income
 2581,Piteå,2012,237600.0
 2581,Piteå,2013,244700.0
 2581,Piteå,2014,249400.0
-2582,Boden,1999,162800.0
-2582,Boden,2000,166700.0
 2582,Boden,2001,172300.0
 2582,Boden,2002,178600.0
 2582,Boden,2003,185300.0
@@ -4607,8 +4031,6 @@ municipality,name,year,median_income
 2582,Boden,2012,231200.0
 2582,Boden,2013,238100.0
 2582,Boden,2014,243800.0
-2583,Haparanda,1999,144400.0
-2583,Haparanda,2000,146000.0
 2583,Haparanda,2001,149900.0
 2583,Haparanda,2002,157400.0
 2583,Haparanda,2003,162900.0
@@ -4623,8 +4045,6 @@ municipality,name,year,median_income
 2583,Haparanda,2012,197500.0
 2583,Haparanda,2013,202500.0
 2583,Haparanda,2014,204500.0
-2584,Kiruna,1999,174400.0
-2584,Kiruna,2000,178300.0
 2584,Kiruna,2001,183400.0
 2584,Kiruna,2002,192300.0
 2584,Kiruna,2003,197600.0
