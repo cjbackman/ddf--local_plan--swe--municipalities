@@ -221,7 +221,7 @@ municipality,name,county,is--municipality,map_id
 1983,Köping,19,True,SE.VM.KO
 1984,Arboga,19,True,SE.VM.AR
 2021,Vansbro,20,True,SE.KO.VA
-2023,Malung-Sälen,20,True,
+2023,Malung-Sälen,20,True,SE.KO.MA
 2026,Gagnef,20,True,SE.KO.GA
 2029,Leksand,20,True,SE.KO.LE
 2031,Rättvik,20,True,SE.KO.RA
@@ -289,4 +289,3 @@ municipality,name,county,is--municipality,map_id
 2582,Boden,25,True,SE.NB.BO
 2583,Haparanda,25,True,SE.NB.HA
 2584,Kiruna,25,True,SE.NB.KI
-,,,,SE.KO.MA
